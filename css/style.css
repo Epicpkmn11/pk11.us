@@ -1,67 +1,7 @@
-.pageoutline {
-	width: 960px;
-	margin: auto;
+body {
+	font-family: arial;
 }
-.floatleft {
-	float: left;
-}
-.floatright {
-	float: right;
-}
-.clearfloat: {
-	clear: both;
-}
-.header {
-	height: 150px;
-	border: solid black 1px;
-	text-align: center;
-	font-size: 70px;
-	font-family: impact-local;
-	background-color: yellow;
-	position: fixed;
-	margin: auto;
-	width: 960px;
-	z-index: 10;
-}
-.footer {
-	position: fixed;
-	bottom: 0;
-	background-color: grey;
-	text-align: center;
-	width: 960px;
-	margin: auto;
-	height: 50px;
-}
-.navbar {
-	height: calc(100% - 212px);
-	width: 200px;
-	border: solid blue 1px;
-	background-color: beige;
-	position: fixed;
-	overflow: auto;
-	margin-top: 152px;
-}
-.pagecontent {
-	height: auto;
-	width: 736px;
-	float: right;
-	border: solid black 1px;
-	padding-bottom: 50px;
-	padding-left: 10px;
-	padding-right: 10px;
-	margin-top: 152px;
-}
-.paragraph {
-	font-size: 20px;
-	font-family: Verdana;
-	padding: 10px;
-	text-indent: 2.0em;
-}
-.paragraphminor {
-	font-size: 18px;
-	font-family: "Times New Roman";
-	text-indent: 2.0em;
-}
+
 h1 {
 	text-align: center;
 }
