@@ -1,109 +1,39 @@
 body {
 	font-family: arial;
 }
-
-h1 {
+.center {
 	text-align: center;
 }
-h2 {
-	text-align: center;
+a {
+	text-decoration: none;
+	color: #944;
 }
-h3 {
-	text-align: center;
+.link{
+	font-style: italic;
 }
-a:link {
-	color: blue;
+.link:hover {
+	text-decoration: underline;
 }
-a:visited {
-	color: purple;
+.btn {
+  background-color: #900;
+  border: none;
+  color: #ddd;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+  transition: .5s;
 }
-a:hover {
-	color: red;
+.btn:hover {
+  background-color: #600;
+  color: #aaa;
 }
-a:active {
-	color: white;
+li {
+	padding: 5px;"
 }
-.marquee {
-  /* Apply animation to this element */	
- -webkit-animation: marquee 0.45s ease-in-out infinite alternate;
- animation: marquee 0.45s ease-in-out infinite alternate;
+code {
+	padding: 2px 4px;
+	font-size: 90%;
+	color: #c00;
+	background-color: #161616;
+	border-radius: 4px
 }
-/* Move it (define the animation) */
-@-webkit-keyframes marquee {
- 0%   { -webkit-transform: translateY(0%); }
- 100% { -webkit-transform: translateY(-50%); }
-}
-@keyframes marquee {
- 0%   { transform: translateY(0%); }
- 100% { transform: translateY(-50%); }
-
- 0%   { -webkit-transform: translateY(0%); }
- 100% { -webkit-transform: translateY(-50%); }
-}
-.marqueeBB {
- -webkit-animation: marqueeBB 0.45s ease-in-out infinite alternate;
- animation: marqueeBB 0.45s ease-in-out infinite alternate;
-}
-@-webkit-keyframes marqueeBB {
- 0%   { -webkit-transform: translateY(0%);
-	color: #0000cc; }
- 100% { -webkit-transform: translateY(-50%);
-	color: #cc0000; }
-}
-@keyframes marqueeBB {
- 0%   { transform: translateY(0%);
-	color: #0000cc; }
- 100% { transform: translateY(-50%);
-	color: #cc0000; }
-
- 0%   { -webkit-transform: translateY(0%);
-	color: #0000cc; }
- 100% { -webkit-transform: translateY(-50%);
-	color: #cc0000; }
-}
-@font-face {
-    font-family: impact-local;
-    src: local(impact-font), url('../fonts/Impact.ttf') format('opentype');
-}
-.flipbox {
-	height: 150px;
-	width: 150px;
-	background: green;
-	margin-left: 10px;
-	margin-top: 10px;
-}
-
-.flipbox:hover .bbwaz{
-	opacity: 1;
-	-webkit-animation: flipHover 1s ;
-	animation: flipHover 1s ;
-	animation-fill-mode: forwards;
-}
-
-@keyframes flipHover {
- 0%   { transform: rotateY(0deg);}
- 100% { transform: rotateY(180deg);}
-}
-
-.flipbox1 {
-	height: 150px;
-	width: 150px;
-	position: absolute;
-	z-index: 30;
-}
-.flipbox2 {
-	height: 150px;
-	width: 150px;
-	position: absolute;
-	margin-left: 810px;
-	z-index: 20;
-}
-.flipbox1:hover .bbwaz{
-	-webkit-animation: flipHover 1s ;
-	animation: flipHover 1s ;
-	animation-fill-mode: forwards;
-}
-.flipbox2:hover .zlogo{
-	-webkit-animation: flipHover 1s ;
-	animation: flipHover 1s ;
-	animation-fill-mode: forwards;
