@@ -15,17 +15,40 @@ a {
 	text-decoration: underline;
 }
 .btn {
-  background-color: #900;
+	background-color: #900;
+	border: none;
+	color: #ddd;
+	padding: 12px 30px;
+	cursor: pointer;
+	font-size: 20px;
+	transition: .5s;
+}
+.btn:hover {
+	background-color: #600;
+	color: #aaa;
+}
+.btnDiscord {
+	background-color: #7581DD;
+	border: none;
+	cursor: pointer;
+	font-size: 20px;
+	transition: .5s;
+}
+.btnDiscord:hover {
+	background-color: #4551AD;
+}
+.btnYllw {
+	background-color: #aa0;
   border: none;
-  color: #ddd;
+  color: #333;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
   transition: .5s;
 }
-.btn:hover {
-  background-color: #600;
-  color: #aaa;
+.btnYllw:hover {
+	background-color: #660;
+	color: #aaa;
 }
 li {
 	padding: 5px;"
