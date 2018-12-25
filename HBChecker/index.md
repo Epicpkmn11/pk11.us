@@ -1,3 +1,9 @@
+---
+layout: splash
+title: HBChecker
+excerpt: "A python script that checks something (ex. A DSi's SD card) to see if specific files are missing or corrupted"
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Epicpkmn11/epicpkmn11.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
