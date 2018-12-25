@@ -1,0 +1,169 @@
+.pageoutline {
+	width: 960px;
+	margin: auto;
+}
+.floatleft {
+	float: left;
+}
+.floatright {
+	float: right;
+}
+.clearfloat: {
+	clear: both;
+}
+.header {
+	height: 150px;
+	border: solid black 1px;
+	text-align: center;
+	font-size: 70px;
+	font-family: impact-local;
+	background-color: yellow;
+	position: fixed;
+	margin: auto;
+	width: 960px;
+	z-index: 10;
+}
+.footer {
+	position: fixed;
+	bottom: 0;
+	background-color: grey;
+	text-align: center;
+	width: 960px;
+	margin: auto;
+	height: 50px;
+}
+.navbar {
+	height: calc(100% - 212px);
+	width: 200px;
+	border: solid blue 1px;
+	background-color: beige;
+	position: fixed;
+	overflow: auto;
+	margin-top: 152px;
+}
+.pagecontent {
+	height: auto;
+	width: 736px;
+	float: right;
+	border: solid black 1px;
+	padding-bottom: 50px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-top: 152px;
+}
+.paragraph {
+	font-size: 20px;
+	font-family: Verdana;
+	padding: 10px;
+	text-indent: 2.0em;
+}
+.paragraphminor {
+	font-size: 18px;
+	font-family: "Times New Roman";
+	text-indent: 2.0em;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: white;
+}
+.marquee {
+  /* Apply animation to this element */	
+ -webkit-animation: marquee 0.45s ease-in-out infinite alternate;
+ animation: marquee 0.45s ease-in-out infinite alternate;
+}
+/* Move it (define the animation) */
+@-webkit-keyframes marquee {
+ 0%   { -webkit-transform: translateY(0%); }
+ 100% { -webkit-transform: translateY(-50%); }
+}
+@keyframes marquee {
+ 0%   { transform: translateY(0%); }
+ 100% { transform: translateY(-50%); }
+
+ 0%   { -webkit-transform: translateY(0%); }
+ 100% { -webkit-transform: translateY(-50%); }
+}
+.marqueeBB {
+ -webkit-animation: marqueeBB 0.45s ease-in-out infinite alternate;
+ animation: marqueeBB 0.45s ease-in-out infinite alternate;
+}
+@-webkit-keyframes marqueeBB {
+ 0%   { -webkit-transform: translateY(0%);
+	color: #0000cc; }
+ 100% { -webkit-transform: translateY(-50%);
+	color: #cc0000; }
+}
+@keyframes marqueeBB {
+ 0%   { transform: translateY(0%);
+	color: #0000cc; }
+ 100% { transform: translateY(-50%);
+	color: #cc0000; }
+
+ 0%   { -webkit-transform: translateY(0%);
+	color: #0000cc; }
+ 100% { -webkit-transform: translateY(-50%);
+	color: #cc0000; }
+}
+@font-face {
+    font-family: impact-local;
+    src: local(impact-font), url('../fonts/Impact.ttf') format('opentype');
+}
+.flipbox {
+	height: 150px;
+	width: 150px;
+	background: green;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+.flipbox:hover .bbwaz{
+	opacity: 1;
+	-webkit-animation: flipHover 1s ;
+	animation: flipHover 1s ;
+	animation-fill-mode: forwards;
+}
+
+@keyframes flipHover {
+ 0%   { transform: rotateY(0deg);}
+ 100% { transform: rotateY(180deg);}
+}
+
+.flipbox1 {
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	z-index: 30;
+}
+.flipbox2 {
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	margin-left: 810px;
+	z-index: 20;
+}
+.flipbox1:hover .bbwaz{
+	-webkit-animation: flipHover 1s ;
+	animation: flipHover 1s ;
+	animation-fill-mode: forwards;
+}
+.flipbox2:hover .zlogo{
+	-webkit-animation: flipHover 1s ;
+	animation: flipHover 1s ;
+	animation-fill-mode: forwards;
