@@ -26,7 +26,7 @@ function GetLatestReleaseInfo() {
 	var versionNew = release.zipball_url.substr(verPosStrt,verPosEnd);
 	var versionOld = document.getElementById('twlVer').innerHTML
 	if(versionNew != versionOld){
-		document.getElementById('twlNotice').innerHTML += "<span style=\"font-size: 60%;\"></code>(Note: You will get corruption errors if this script has not yet been updated for the latest version of TWiLight Menu++ ("+versionNew+")";	
+		document.getElementById('twlNotice').innerHTML += "<span style=\"font-size: 60%;\"></code>(Note: Newer release of TWiLight Menu++ was detected ("+versionNew+"), you may get corruption errors.";	
 	}
 
 	});
