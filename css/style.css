@@ -4,52 +4,6 @@ body {
 .center {
 	text-align: center;
 }
-a {
-	text-decoration: none;
-	color: #944;
-}
-.link{
-	font-style: italic;
-}
-.link:hover {
-	text-decoration: underline;
-}
-.btn {
-	background-color: #900;
-	border: none;
-	color: #ddd;
-	padding: 12px 30px;
-	cursor: pointer;
-	font-size: 20px;
-	transition: .5s;
-}
-.btn:hover {
-	background-color: #600;
-	color: #aaa;
-}
-.btnDiscord {
-	background-color: #7581DD;
-	border: none;
-	cursor: pointer;
-	font-size: 20px;
-	transition: .5s;
-}
-.btnDiscord:hover {
-	background-color: #4551AD;
-}
-.btnYllw {
-	background-color: #aa0;
-  border: none;
-  color: #333;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-  transition: .5s;
-}
-.btnYllw:hover {
-	background-color: #660;
-	color: #aaa;
-}
 li {
 	padding: 5px;"
 }
@@ -59,4 +13,56 @@ code {
 	color: #c00;
 	background-color: #161616;
 	border-radius: 4px
+}
+a {
+	text-decoration: none;
+	color: #944;
+	font-style: italic;
+}
+a:hover {
+	text-decoration: underline;
+}
+.btn {
+	display:inline-block;
+	font-style: normal;
+	text-decoration: none;
+	border: none;
+	padding: 12px 30px;
+	margin: 2px;
+	cursor: pointer;
+	font-size: 20px;
+	transition: .5s;
+}
+.btn:hover {
+	text-decoration: none;
+}
+.btnRed {
+	background-color: #900;
+	color: #ddd;
+}
+.btnRed:hover {
+	background-color: #600;
+	color: #aaa;
+}
+.btnDiscord {
+	background-color: #7581DD;
+}
+.btnDiscord:hover {
+	background-color: #4551AD;
+}
+.btnYllw {
+	background-color: #aa0;
+	color: #333;
+}
+.btnYllw:hover {
+	background-color: #660;
+	color: #aaa;
+}
+.noDec {
+	text-decoration: none;
+	font-style: normal;
+}
+.noDec:hover {
+	text-decoration: none;
+	font-style: normal;
 }
