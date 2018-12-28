@@ -9,7 +9,9 @@ function RandomSplash() {
 	"<em>#DSiBestConsole!</em>",
 	"Anyone else still use <span style=\"font-size:80%;\">ニンテンドー</span>DSi<span style=\"font-size:80%;\">サウンド</span>?",
 	"<a href=\"https://twitter.com/@ComoBEASTBot\">@ComoBEASTBot</a> ← The <em>coolest</em> Twitter ;P",
-	".o/"
+	".o/",
+	"30 Pin > Lightning",
+	"I still use an iPhone 4S ;P <span style=\"font-size:80%\">(And an iPad 2...</span> <span style=\"font-size:70%\">And a DSi... </span><span style=\"font-size:60%\">And an iPod... </span><span style=\"font-size:50%\">Is it 2011?)"
 	]
-	document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * 6)];
+	document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * 8)];
 }
