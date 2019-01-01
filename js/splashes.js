@@ -11,7 +11,8 @@ function RandomSplash() {
 	'<a href="https://twitter.com/@ComoBEASTBot">@ComoBEASTBot</a> ← The <em>coolest</em> Twitter ;P',
 	'.o/',
 	'30 Pin > Lightning',
-	'I still use an iPhone 4S ;P <span style="font-size:80%">(And an iPad 2...</span> <span style="font-size:70%">And a DSi... </span><span style="font-size:60%">And an iPod... </span><span style="font-size:50%">Is it 2011?)</span>'
+	'I still use an iPhone 4S ;P <span style="font-size:80%">(And an iPad 2...</span> <span style="font-size:70%">And a DSi... </span><span style="font-size:60%">And an iPod... </span><span style="font-size:50%">Is it 2011?)</span>',
+	'Dark Theme = Best Theme! <span style="font-size:50%">Then why did you make a light theme? So I could say the Dark Theme was better, of course ;P</span>'
 	]
-	document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * 8)];
+	document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * 9)];
 }
