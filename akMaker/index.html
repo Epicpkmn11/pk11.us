@@ -2,50 +2,51 @@
 <head>
 	<title>akMaker</title>
 	<script src="js/akMaker.js"></script>
+	<script src="js/batteryAndVolume.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
 <body>
 	<div id="preview" class="preview">
 		<!-- Base screen -->
-		<img src="img/upper_screen.bmp"            alt="upper_screen"    id="upper_screen">
-		<img src="img/lower_screen.bmp"            alt="lower_screen"    id="lower_screen">
+		<img src="theme/upper_screen.bmp"            alt="upper_screen"    id="upper_screen">
+		<img src="theme/lower_screen.bmp"            alt="lower_screen"    id="lower_screen">
 		<!-- Main icons -->
-		<img src="img/brightness.bmp"              alt="brightness"      id="brightness"      style="display:none"  class="icon">
-		<img src="img/btn2.bmp"                    alt="btn2"            id="btn2"            style="display:none"  class="icon">
-		<img src="img/btn3.bmp"                    alt="btn3"            id="btn3"            style="display:none"  class="icon">
-		<img src="img/btn4.bmp"                    alt="btn4"            id="btn4"            style="display:none"  class="icon">
-		<img src="img/card_icon_blue.bmp"          alt="card_icon_blue"  id="card_icon_blue"  style="display:none"  class="icon">
-		<img src="img/folder_up.bmp"               alt="folder_up"       id="folder_up"       style="display:none"  class="icon">
-		<img src="img/menu_bg.bmp"                 alt="menu_bg"         id="menu_bg"         style="display:none"  class="icon">
-		<img src="img/progress_bar.bmp"            alt="progress_bar"    id="progress_bar"    style="display:none"  class="icon">
-		<img src="img/progress_wnd.bmp"            alt="progress_wnd"    id="progress_wnd"    style="display:none"  class="icon">
-		<img src="img/selection_bar_bg.bmp"        alt="selection_bar_bg"id="selection_bar_bg"style="display:none"  class="icon">
-		<img src="img/spin_btn_left.bmp"           alt="spin_btn_left"   id="spin_btn_left"   style="display:none"  class="icon">
-		<img src="img/spin_btn_right.bmp"          alt="spin_btn_right"  id="spin_btn_right"  style="display:none"  class="icon">
-		<img src="img/title_bg.bmp"                alt="title_bg"        id="title_bg"        style="display:none"  class="icon">
-		<img src="img/title_left.bmp"              alt="title_left"      id="title_left"      style="display:none"  class="icon">
-		<img src="img/title_right.bmp"             alt="title_right"     id="title_right"     style="display:none"  class="icon">
+		<img src="theme/brightness.bmp"              alt="brightness"      id="brightness"      style="display:none"  class="icon">
+		<img src="theme/btn2.bmp"                    alt="btn2"            id="btn2"            style="display:none"  class="icon">
+		<img src="theme/btn3.bmp"                    alt="btn3"            id="btn3"            style="display:none"  class="icon">
+		<img src="theme/btn4.bmp"                    alt="btn4"            id="btn4"            style="display:none"  class="icon">
+		<img src="theme/card_icon_blue.bmp"          alt="card_icon_blue"  id="card_icon_blue"  style="display:none"  class="icon">
+		<img src="theme/folder_up.bmp"               alt="folder_up"       id="folder_up"       style="display:none"  class="icon">
+		<img src="theme/menu_bg.bmp"                 alt="menu_bg"         id="menu_bg"         style="display:none"  class="icon">
+		<img src="theme/progress_bar.bmp"            alt="progress_bar"    id="progress_bar"    style="display:none"  class="icon">
+		<img src="theme/progress_wnd.bmp"            alt="progress_wnd"    id="progress_wnd"    style="display:none"  class="icon">
+		<img src="theme/selection_bar_bg.bmp"        alt="selection_bar_bg"id="selection_bar_bg"style="display:none"  class="icon">
+		<img src="theme/spin_btn_left.bmp"           alt="spin_btn_left"   id="spin_btn_left"   style="display:none"  class="icon">
+		<img src="theme/spin_btn_right.bmp"          alt="spin_btn_right"  id="spin_btn_right"  style="display:none"  class="icon">
+		<img src="theme/title_bg.bmp"                alt="title_bg"        id="title_bg"        style="display:none"  class="icon">
+		<img src="theme/title_left.bmp"              alt="title_left"      id="title_left"      style="display:none"  class="icon">
+		<img src="theme/title_right.bmp"             alt="title_right"     id="title_right"     style="display:none"  class="icon">
 		<!-- Calendar icons -->
-		<img src="img/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
-		<img src="img/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
-		<img src="img/calendar/clock_numbers_2.bmp"alt="clock_numbers"   id="clock_numbers"   style="display:none"  class="icon">
-		<img src="img/calendar/clock_numbers_2.bmp"alt="clock_numbers"   id="clock_numbers"   style="display:none"  class="icon">
-		<img src="img/calendar/day_numbers_2.bmp"  alt="day_numbers"     id="day_numbers"     style="display:none"  class="icon">
-		<img src="img/calendar/day_numbers_2.bmp"  alt="day_numbers"     id="day_numbers"     style="display:none"  class="icon">
-		<img src="img/calendar/year_numbers_2.bmp" alt="year_numbers"    id="year_numbers"    style="display:none"  class="icon">
-		<img src="img/calendar/year_numbers_2.bmp" alt="year_numbers"    id="year_numbers"    style="display:none"  class="icon">
+		<img src="theme/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
+		<img src="theme/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
+		<img src="theme/calendar/clock_numbers_2.bmp"alt="clock_numbers"   id="clock_numbers"   style="display:none"  class="icon">
+		<img src="theme/calendar/clock_numbers_2.bmp"alt="clock_numbers"   id="clock_numbers"   style="display:none"  class="icon">
+		<img src="theme/calendar/day_numbers_2.bmp"  alt="day_numbers"     id="day_numbers"     style="display:none"  class="icon">
+		<img src="theme/calendar/day_numbers_2.bmp"  alt="day_numbers"     id="day_numbers"     style="display:none"  class="icon">
+		<img src="theme/calendar/year_numbers_2.bmp" alt="year_numbers"    id="year_numbers"    style="display:none"  class="icon">
+		<img src="theme/calendar/year_numbers_2.bmp" alt="year_numbers"    id="year_numbers"    style="display:none"  class="icon">
 		<!-- Additional icons -->
-		<img src="img/icons/battery1.bmp"          alt="battery1"        id="battery1"        style="display:none"  class="icon">
-		<img src="img/icons/battery2.bmp"          alt="battery2"        id="battery2"        style="display:none"  class="icon">
-		<img src="img/icons/battery3.bmp"          alt="battery3"        id="battery3"        style="display:none"  class="icon">
-		<img src="img/icons/battery4.bmp"          alt="battery4"        id="battery4"        style="display:none"  class="icon">
-		<img src="img/icons/batterycharge.bmp"     alt="batterycharge"   id="batterycharge"   style="display:none"  class="icon">
-		<img src="img/icons/volume0.bmp"           alt="volume0"         id="volume0"         style="display:none"  class="icon">
-		<img src="img/icons/volume1.bmp"           alt="volume1"         id="volume1"         style="display:none"  class="icon">
-		<img src="img/icons/volume2.bmp"           alt="volume2"         id="volume2"         style="display:none"  class="icon">
-		<img src="img/icons/volume3.bmp"           alt="volume3"         id="volume3"         style="display:none"  class="icon">
-		<img src="img/icons/volume4.bmp"           alt="volume4"         id="volume40"        style="display:none"  class="icon">
+		<img src="theme/icons/battery1.bmp"          alt="battery1"        id="battery1"        style="display:none"  class="icon">
+		<img src="theme/icons/battery2.bmp"          alt="battery2"        id="battery2"        style="display:none"  class="icon">
+		<img src="theme/icons/battery3.bmp"          alt="battery3"        id="battery3"        style="display:none"  class="icon">
+		<img src="theme/icons/battery4.bmp"          alt="battery4"        id="battery4"        style="display:none"  class="icon">
+		<img src="theme/icons/batterycharge.bmp"     alt="batterycharge"   id="batterycharge"   style="display:none"  class="icon">
+		<img src="theme/icons/volume0.bmp"           alt="volume0"         id="volume0"         style="display:none"  class="icon">
+		<img src="theme/icons/volume1.bmp"           alt="volume1"         id="volume1"         style="display:none"  class="icon">
+		<img src="theme/icons/volume2.bmp"           alt="volume2"         id="volume2"         style="display:none"  class="icon">
+		<img src="theme/icons/volume3.bmp"           alt="volume3"         id="volume3"         style="display:none"  class="icon">
+		<img src="theme/icons/volume4.bmp"           alt="volume4"         id="volume4"        style="display:none"  class="icon">
 	</div>
 	<div style="right:0; position: absolute">
 		<select id="optionChoice" onchange="showOptions()">
@@ -54,7 +55,7 @@
 			<option value="classic">Classic</option>
 		</select>
 	</div>
-	<div class="config TWiLight classic" style="display: none">
+	<div class="config TWiLight" style="display: none">
 		<input type="checkbox" id="batteryIcon" onchange="update()">Battery Icon<br/>
 		<div id="batteryDiv" style="display:none">
 				<input type="checkbox" id="batteryScreen" onclick="moveBattery()" checked>Top Screen?<br/>
@@ -67,6 +68,19 @@
 			</select><br/>
 			X = <input type="number" id="batteryX" onchange="moveBattery()"><br/>
 			Y = <input type="number" id="batteryY" onchange="moveBattery()">
+		</div>
+		<input type="checkbox" id="volumeIcon" onchange="update()">Volume Icon<br/>
+		<div id="volumeDiv" style="display:none">
+				<input type="checkbox" id="volumeScreen" onclick="moveVolume()" checked>Top Screen?<br/>
+				<select id="volumeChoice" onchange="changeVolume()">
+				<option value="volume0">0</option>
+				<option value="volume1">1</option>
+				<option value="volume2">2</option>
+				<option value="volume3">3</option>
+				<option value="volume4">4</option>
+			</select><br/>
+			X = <input type="number" id="volumeX" onchange="moveVolume()"><br/>
+			Y = <input type="number" id="volumeY" onchange="moveVolume()">
 		</div>
 	</div>
 	<div class="config classic" style="display: none">
