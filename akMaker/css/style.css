@@ -1,11 +1,27 @@
+code {
+	padding: 2px 4px;
+	font-size: 90%;
+	background-color: #ddd;
+	border-radius: 4px;
+}
+
 .config {
 	padding-top: 30px;
 	float: right;
 }
 .preview {
-	width: 256px;
 	position: absolute;
+	width: 256px;
 }
 .icon {
 	position: absolute;
+}
+.output {
+	position: absolute;
+	left: 270px;
+}
+.saveButton {
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
 }

@@ -92,7 +92,7 @@ function moveVolume() {
 	var curWidth;
 
 	var newImg = new Image();
-	newImg.src = "img/icons/" + document.getElementById('volumeChoice').value + ".bmp";
+	newImg.src = "theme/icons/" + document.getElementById('volumeChoice').value + ".bmp";
 
 	if(volumeX<0) volumeX = 0;
 	if(volumeX>(256 - newImg.width)) volumeX = 256 - newImg.width;
