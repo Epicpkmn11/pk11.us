@@ -5,6 +5,7 @@
 	<script src="js/save.js"></script>
 	<script src="js/batteryAndVolume.js"></script>
 	<script src="js/folderUp.js"></script>
+	<script src="js/startButton.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
@@ -58,6 +59,7 @@
 			<option value="classic">Classic</option>
 		</select><br/>
 		<input type="checkbox" id="showClickArea" onchange="showClickArea()" checked> Show click area?
+		<input type="text" id="color" onchange="alert(calcColor())">
 	</div>
 	<div class="configDiv">
 	<span class="config TWiLight classic" style="display:none">
@@ -102,6 +104,7 @@
 		<input type="checkbox" id="brightnessIcon" onchange="update()">Brightness icon<br/>
 	</div>
 	</div>
-	<code id="output" class="output" style="display:none"></code>
+	<span class="output" style="display:none">Copy paste this into <code>uisettings.ini</code>:</span>
+	<code id="output" class="output" style="display:none;top: 28px" ></code>
 	<button onclick="save()" class="saveButton">Save</button>
 </body>

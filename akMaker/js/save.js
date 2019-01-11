@@ -23,9 +23,13 @@ function save() {
 
 	// Show output
 	if(output != '') {
-		document.getElementById('output').style.display = 'block';
+		for(var i = 0; i < document.getElementsByClassName('output').length; i++){
+			document.getElementsByClassName('output')[i].style.display = 'block';
+		}
 		document.getElementById('output').innerHTML = output;
 	} else {
-		document.getElementById('output').style.display = 'none';
+		for(var i = 0; i < ddocument.getElementsByClassName('output').length; i++){
+			document.getElementsByClassName('output')[i].style.display = 'none';
+		}
 	}
 }
