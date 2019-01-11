@@ -1,0 +1,11 @@
+.config {
+	padding-top: 30px;
+	float: right;
+}
+.preview {
+	width: 256px;
+	position: absolute;
+}
+.icon {
+	position: absolute;
+}
