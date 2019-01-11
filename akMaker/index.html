@@ -22,7 +22,6 @@
 		<img src="theme/btn4.bmp"                    alt="btn4"            id="btn4"            style="display:none"  class="icon">
 		<img src="theme/card_icon_blue.bmp"          alt="card_icon_blue"  id="card_icon_blue"  style="display:none"  class="icon">
 		<img src="theme/folder_up.bmp"               alt="folder_up"       id="folder_up"       style="display:none"  class="icon">
-		<div id="folder_upDiv" class="clickArea"></div>
 		<img src="theme/progress_bar.bmp"            alt="progress_bar"    id="progress_bar"    style="display:none"  class="icon">
 		<img src="theme/progress_wnd.bmp"            alt="progress_wnd"    id="progress_wnd"    style="display:none"  class="icon">
 		<img src="theme/selection_bar_bg.bmp"        alt="selection_bar_bg"id="selection_bar_bg"style="display:none"  class="icon">
@@ -31,6 +30,8 @@
 		<img src="theme/title_bg.bmp"                alt="title_bg"        id="title_bg"        style="display:none"  class="icon">
 		<img src="theme/title_left.bmp"              alt="title_left"      id="title_left"      style="display:none"  class="icon">
 		<img src="theme/title_right.bmp"             alt="title_right"     id="title_right"     style="display:none"  class="icon">
+		<div id="folder_upDiv" class="clickArea"></div>
+		<div id="startButtonDiv" class="clickArea"></div>
 		<!-- Calendar icons -->
 		<img src="theme/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
 		<img src="theme/calendar/clock_colon_2.bmp"  alt="clock_colon"     id="clock_colon"     style="display:none"  class="icon">
@@ -59,7 +60,6 @@
 			<option value="classic">Classic</option>
 		</select><br/>
 		<input type="checkbox" id="showClickArea" onchange="showClickArea()" checked> Show click area?
-		<input type="text" id="color" onchange="alert(calcColor())">
 	</div>
 	<div class="configDiv">
 	<span class="config TWiLight classic" style="display:none">
@@ -69,8 +69,16 @@
 			y = <input type="number" id="folderUpY" onchange="moveFolderUp()"><br/>
 			width = <input type="number" id="folderUpW" onchange="moveFolderUp()"><br/>
 			height = <input type="number" id="folderUpH" onchange="moveFolderUp()"><br/>
-			
 		</div>
+		<div id="startButtonDiv">
+				Start button<br/>
+				x = <input type="number" id="startButtonX" onchange="moveStartButton()"><br/>
+				y = <input type="number" id="startButtonY" onchange="moveStartButton()"><br/>
+				width = <input type="number" id="startButtonW" onchange="moveStartButton()"><br/>
+				height = <input type="number" id="startButtonH" onchange="moveStartButton()"><br/>
+				text color = <input type="text" id="startButtonColor" placeholder="(#)123 / (#)123456" onchange="moveStartButton()"><br/>
+				text = <input type="text" id="startButtonText" onchange="moveStartButton()"><br/>
+			</div>
 	</span>
 	<span class="config TWiLight" style="display:none">
 		<input type="checkbox" id="batteryIcon" onchange="update()">Battery icon<br/>

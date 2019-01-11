@@ -12,9 +12,11 @@ function showOptions() {
 
 	if(document.getElementById('optionChoice').value != 'none') {
 		showFolderUp();
+		showStartButton();
 	} else {
 		hideFolderUp();
 		hideBattery();
+		hideStartButton();
 
 		document.getElementById('batteryIcon').checked = false;
 		hideVolume();
@@ -44,11 +46,11 @@ function update() {
 function showClickArea() {
 	if(document.getElementById('showClickArea').checked) {
 		for(var i = 0; i < document.getElementsByClassName('clickArea').length; i++){
-			document.getElementsByClassName('clickArea')[i].style.display = 'block';
+			document.getElementsByClassName('clickArea')[i].style.background = 'rgba(255, 255, 0, 0.5)';
 		}
 	} else {
 		for(var i = 0; i < document.getElementsByClassName('clickArea').length; i++){
-			document.getElementsByClassName('clickArea')[i].style.display = 'none';
+			document.getElementsByClassName('clickArea')[i].style.background = 'rgba(255, 255, 0, 0)';
 		}
 	}
 }

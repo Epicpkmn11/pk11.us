@@ -1,6 +1,9 @@
 function save() {
 	var output = '';
 
+	// [start button]
+	output += "[start button]\nx = "+startButtonX+"\ny = "+(startButtonY-192)+"\nw = "+startButtonW+"\nh = "+startButtonH+"\ntextColor = "+calcColor(document.getElementById('startButtonColor').value)+"\nfile = none\ntext = "+document.getElementById('startButtonText').value+"\n\n";
+
 	// [folderup btn]
 	output += "[folderup btn]\nx = "+folderUpX+"\ny = "+(folderUpY-192)+"\nw = "+folderUpW+"\nh = "+folderUpH+"\n\n";
 
