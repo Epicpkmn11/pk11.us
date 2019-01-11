@@ -5,9 +5,14 @@ code {
 	border-radius: 4px;
 }
 
-.config {
-	padding-top: 30px;
+.clickArea {
+	position: absolute;
+	background-color: #ff0;
+	opacity: 0.5;
+}
+.configDiv {
 	float: right;
+	padding-top: 40px;
 }
 .preview {
 	position: absolute;

@@ -2,7 +2,9 @@
 <head>
 	<title>akMaker</title>
 	<script src="js/akMaker.js"></script>
+	<script src="js/save.js"></script>
 	<script src="js/batteryAndVolume.js"></script>
+	<script src="js/folderUp.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 
@@ -11,6 +13,7 @@
 		<!-- Base screen -->
 		<img src="theme/upper_screen.bmp"            alt="upper_screen"    id="upper_screen">
 		<img src="theme/lower_screen.bmp"            alt="lower_screen"    id="lower_screen">
+		<img src="theme/menu_bg.bmp"                 alt="menu_bg"         id="menu_bg"         style="display:none"  class="icon">
 		<!-- Main icons -->
 		<img src="theme/brightness.bmp"              alt="brightness"      id="brightness"      style="display:none"  class="icon">
 		<img src="theme/btn2.bmp"                    alt="btn2"            id="btn2"            style="display:none"  class="icon">
@@ -18,7 +21,7 @@
 		<img src="theme/btn4.bmp"                    alt="btn4"            id="btn4"            style="display:none"  class="icon">
 		<img src="theme/card_icon_blue.bmp"          alt="card_icon_blue"  id="card_icon_blue"  style="display:none"  class="icon">
 		<img src="theme/folder_up.bmp"               alt="folder_up"       id="folder_up"       style="display:none"  class="icon">
-		<img src="theme/menu_bg.bmp"                 alt="menu_bg"         id="menu_bg"         style="display:none"  class="icon">
+		<div id="folder_upDiv" class="clickArea"></div>
 		<img src="theme/progress_bar.bmp"            alt="progress_bar"    id="progress_bar"    style="display:none"  class="icon">
 		<img src="theme/progress_wnd.bmp"            alt="progress_wnd"    id="progress_wnd"    style="display:none"  class="icon">
 		<img src="theme/selection_bar_bg.bmp"        alt="selection_bar_bg"id="selection_bar_bg"style="display:none"  class="icon">
@@ -53,10 +56,22 @@
 			<option value="none">-Please select a value-</option>
 			<option value="TWiLight">TWiLight</option>
 			<option value="classic">Classic</option>
-		</select>
+		</select><br/>
+		<input type="checkbox" id="showClickArea" onchange="showClickArea()" checked> Show click area?
 	</div>
-	<div class="config TWiLight" style="display: none">
-		<input type="checkbox" id="batteryIcon" onchange="update()">Battery Icon<br/>
+	<div class="configDiv">
+	<span class="config TWiLight classic" style="display:none">
+		<div id="folderUpDiv">
+			Folder Up icon<br/>
+			x = <input type="number" id="folderUpX" onchange="moveFolderUp()"><br/>
+			y = <input type="number" id="folderUpY" onchange="moveFolderUp()"><br/>
+			width = <input type="number" id="folderUpW" onchange="moveFolderUp()"><br/>
+			height = <input type="number" id="folderUpH" onchange="moveFolderUp()"><br/>
+			
+		</div>
+	</span>
+	<span class="config TWiLight" style="display:none">
+		<input type="checkbox" id="batteryIcon" onchange="update()">Battery icon<br/>
 		<div id="batteryDiv" style="display:none">
 				<input type="checkbox" id="batteryScreen" onclick="moveBattery()" checked>Top Screen?<br/>
 				<select id="batteryChoice" onchange="changeBattery()">
@@ -66,10 +81,10 @@
 				<option value="battery4">4</option>
 				<option value="batterycharge">Charging</option>
 			</select><br/>
-			X = <input type="number" id="batteryX" onchange="moveBattery()"><br/>
-			Y = <input type="number" id="batteryY" onchange="moveBattery()">
+			x = <input type="number" id="batteryX" onchange="moveBattery()"><br/>
+			y = <input type="number" id="batteryY" onchange="moveBattery()">
 		</div>
-		<input type="checkbox" id="volumeIcon" onchange="update()">Volume Icon<br/>
+		<input type="checkbox" id="volumeIcon" onchange="update()">Volume icon<br/>
 		<div id="volumeDiv" style="display:none">
 				<input type="checkbox" id="volumeScreen" onclick="moveVolume()" checked>Top Screen?<br/>
 				<select id="volumeChoice" onchange="changeVolume()">
@@ -79,12 +94,13 @@
 				<option value="volume3">3</option>
 				<option value="volume4">4</option>
 			</select><br/>
-			X = <input type="number" id="volumeX" onchange="moveVolume()"><br/>
-			Y = <input type="number" id="volumeY" onchange="moveVolume()">
+			x = <input type="number" id="volumeX" onchange="moveVolume()"><br/>
+			y = <input type="number" id="volumeY" onchange="moveVolume()">
 		</div>
-	</div>
+	</span>
 	<div class="config classic" style="display: none">
-		<input type="checkbox" id="brightnessIcon" onchange="update()">Brightness Icon<br/>
+		<input type="checkbox" id="brightnessIcon" onchange="update()">Brightness icon<br/>
+	</div>
 	</div>
 	<code id="output" class="output" style="display:none"></code>
 	<button onclick="save()" class="saveButton">Save</button>
