@@ -79,11 +79,15 @@ function dec2bin(dec) {
 }
 
 function calcColor(id) {
-	b = dec2bin(Math.round(hexToRgb(id).b/(255/31)));
-	g = dec2bin(Math.round(hexToRgb(id).g/(255/31)));
-	r = dec2bin(Math.round(hexToRgb(id).r/(255/31)));
+	if(id!="") {
+		b = dec2bin(Math.round(hexToRgb(id).b/(255/31)));
+		g = dec2bin(Math.round(hexToRgb(id).g/(255/31)));
+		r = dec2bin(Math.round(hexToRgb(id).r/(255/31)));
 
-	color = parseInt("1"+b+g+r, 2).toString(16);
+		color = parseInt("1"+b+g+r, 2).toString(16);
 
-	return("0x"+color);
+		return("0x"+color);
+	} else {
+		return("0x8000");
+	}
 }
