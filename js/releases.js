@@ -19,7 +19,7 @@ function GetLatestReleaseInfo() {
 
 	$.getJSON('https://api.github.com/repos/RocketRobz/TWiLightMenu/tags').done(function (json) {
 	release = json[0];
-	var versionNew = release.name;
+	var versionNew = release.name.substr(1, release.name.length);
 	var versionOld = document.getElementById('twlVer').innerHTML;
 	if(versionNew != versionOld){
 		document.getElementById('twlNotice').innerHTML += '<span style="font-size: 60%;"></code>(Note: Newer release of TWiLight Menu++ was detected ('+versionNew+'), you may get corruption errors.)';	
