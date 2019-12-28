@@ -4,7 +4,7 @@ $(document).ready(function () {
 
 function RandomSplash() {
 	var splashes = [
-#		'Ya girl makin\' DSi homebrew',
+// 		'Ya girl makin\' DSi homebrew',
 		'<span style="color:#900;">Bumper</span> <span style="color:#00c;">Boys</span> <span style="color:#900;">with</span> <span style="color:#00c;">a</span> <span style="color:#900;">Z</span><span style="color:#00c;">!</span>',
 		'<em>#DSiBestConsole!</em>',
 		'Anyone else still use <span style="font-size:80%;">ニンテンドー</span>DSi<span style="font-size:80%;">サウンド</span>?',
