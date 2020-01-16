@@ -1,0 +1,89 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img {
+	// Don't glow!
+	box-shadow: 0 0;
+	-webkit-box-shadow: 0 0;
+	-moz-box-shadow: 0 0;
+	-o-box-shadow: 0 0;
+	-ms-box-shadow: 0 0;
+}
+
+a {
+	text-decoration: underline;
+	color: inherit;
+	font-weight: bold;
+}
+
+a:hover {
+	color: gray;
+}
+
+sub, sup {
+	font-size: 75%;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	top: -0.5em;
+}
+
+sub {
+	bottom: -0.25em;
+}
+
+small {
+	font-size: 60%;
+}
+
+.btn {
+	display:inline-block;
+	padding: 6px 15px;
+	margin: 2px;
+	border: none;
+	cursor: pointer;
+	font-style: normal;
+	font-size: 20px;
+	color: #333;
+	text-decoration: none;
+	background-color: #ddd;
+	font-weight: normal;
+}
+.btn:hover {
+	text-decoration: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.pfp {
+	margin-bottom: -15px;
+}
+
+.inner {
+	max-width: 960px;
+}
+
+.hidden {
+	display: none;
+}
+
+.title {
+	text-decoration: none;
+}
+
+#forkme_banner {
+	background-color: #ffb6c1;
+	right: 30px;
+	text-decoration: none;
+}
+
+#forkme_banner:hover {
+	background-color: #e4a0ab;
+}
+
+#main_content_wrap {
+	border: 0;
+}

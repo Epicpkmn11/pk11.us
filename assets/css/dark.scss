@@ -1,0 +1,30 @@
+---
+---
+
+body {
+	color: #ccc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: #ddd;
+}
+
+blockquote {
+	color: #999;
+	border-left: 3px solid #3f3f3f;
+}
+
+code {
+	color: #ddd;
+	background-color: #3f3f3f;
+	font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
+}
+
+#main_content_wrap {
+	background: #2f2f2f;
+}
+
+.btn {
+	background-color: #3f3f3f;
+	color: #ddd;
+}

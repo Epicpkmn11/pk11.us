@@ -1,0 +1,11 @@
+theme       : jekyll-theme-slate
+title       : "Pk11"
+description : "Pk11's official site"
+repo        : "epicpkmn11/epicpkmn11.github.io"
+color       : "#f2acae"
+
+defaults:
+  -
+    values:
+      layout: "default"
+      image: "/assets/images/pk11.jpg"
