@@ -13,7 +13,7 @@ var splashes = [
 	'TWL-001 (KOR)をプレイ中',
 	'iPod nano 6 is the best smart watch!',
 	'メロエッタは私の好きなポケモンです',
-	'아이 칸 솔타 기드 한글... (디스 이스 인 엔글리쇠, 밧 노 구글 트란스렡 니덷!)'
+	'아이 캔 소르타 리드 한글... (디스 이스 인 엔글리쉬, 밭 노 구글 트란스랱 니덷!)'
 ]
 document.getElementById('splash').innerHTML = splashes[Math.floor(Math.random() * splashes.length)];
 console.log('test?');

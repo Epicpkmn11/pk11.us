@@ -4,10 +4,10 @@ description: Various social links and such
 ---
 
 ## About
-Hi! I'm Pk11, aka Epicpkmn11 <!-- and Evie. I'm a trans girl (she/her) -->, I like DS(i) homebrew and just the Nintendo DSi in general, I've got DSi's in English, Japanese, and Korean. I know some Japanese, and I can mostly read Hangul, but not understand it unless maybe if its a direct transliteration of English. I mostly code in C++ since that's a language you can use for DS(i) homebrew, but I also know some Python, JavaScript, and a bit of Java. Below is just about every public account I have for things that I can remember: <!-- Check the comments for my trans-related ones ;P -->
+Hi! I'm <!-- Evie, aka --> Pk11, or Epicpkmn11 on some older accounts. <!-- I'm a trans girl (she/her), --> I like DS(i) homebrew and just the Nintendo DSi in general, I've got DSi's in English, Japanese, and Korean. I know some Japanese, and I can mostly read Hangul, but not understand it unless maybe if its a direct transliteration of English. I mostly code in C++ since that's a language you can use for DS(i) homebrew, but I also know some Python, JavaScript, and a bit of Java. Below is just about every public account I have for things that I can remember: <!-- Check the comments for my trans-related ones ;P -->
 
 ## Social links
-(Names displayed are screen names, links are to account names)
+(Names displayed are the screen names if that differs from the actual account name)
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11)
 - GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/)
@@ -39,7 +39,9 @@ Hi! I'm Pk11, aka Epicpkmn11 <!-- and Evie. I'm a trans girl (she/her) -->, I li
 - Wattpad: [Pk11](https://www.wattpad.com/user/Epicpkmn11)
 - Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11)
 
-<!-- ### Sneaky profiles <small>// I see you're checking the code ;P</small> -->
-<!-- - AO3: [Evie11](https://archiveofourown.org/users/Evie11) -->
-<!-- - MangaDex: [Evie11](https://mangadex.org/user/471397/evie11) -->
-<!-- - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) -->
+<!--
+### Sneaky profiles <small>// I see you're checking the code ;P</small>
+- AO3: [Evie11](https://archiveofourown.org/users/Evie11)
+- MangaDex: [Evie11](https://mangadex.org/user/471397/evie11)
+- Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/)
+-->
