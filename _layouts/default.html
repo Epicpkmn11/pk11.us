@@ -42,6 +42,16 @@
         background: linear-gradient(to top, #373737, {{ page.color | default: site.color }})
       }
     </style>
+
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      var OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "035ddf40-89ca-4a11-ad86-498516c84613",
+        });
+      });
+    </script>
   </head>
 
   <body>
