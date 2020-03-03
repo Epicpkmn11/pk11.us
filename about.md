@@ -28,6 +28,7 @@ Hi! I'm <!-- Evie, aka --> Pk11, or Epicpkmn11 on some older accounts. <!-- I'm 
 - Fandom: [Epicpkmn11](https://dinosaurking.fandom.com/wiki/Message_Wall:Epicpkmn11)
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11)
 - Instagram: [Pk11](https://www.instagram.com/epicpkmn11/)
+- LINE Timeline: [Pk11](https://timeline.line.me/user/_dVRz1-TMEIXMntRk6XV-g26IDbRae0bLZ3jpsqM)
 - Listen.moe: [Pk11](https://listen.moe/u/pk11)
 - Minecraft: Epicpkmn11
 - Mixer: [Epicpkmn11](https://mixer.com/Epicpkmn11)
