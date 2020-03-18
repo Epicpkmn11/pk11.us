@@ -17,6 +17,7 @@ Well, I'm out of stuff to say so, have a nice day .o/
 ## Projects:
 [pkmn-chest](https://universal-team.github.io/projects/pkmn-chest.html){:.btn}
 [HBChecker](HBChecker){:.btn}
+[nftr-editor](nftr-editor){:.btn}
 [Remove ._ files](https://github.com/Epicpkmn11/Remove-._-files){:.btn}
 [NDSRomTrimmer](https://github.com/Epicpkmn11/NDSRomTrimmer){:.btn}
 
