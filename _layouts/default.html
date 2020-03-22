@@ -57,7 +57,7 @@
             {% endif %}
             <a href="/"" class="title" style="color:#fff">{{ site.title }}</a>
           </h1>
-          <h2 id="project_tagline">{{ page.description }}</h2>
+          <h2 id="project_tagline">{% if page.description %}// {% endif %}{{ page.description }}</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
