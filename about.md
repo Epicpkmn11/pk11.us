@@ -9,7 +9,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 (btw I prefer the pronounciation /ˈɛv.i/ (エヴィー? 에비? <audio src="/assets/sound/evie.mp3" type="audio/mpeg" controls>(There should be a sound preview here)</audio>? Any of those easier than IPA for you?), but don't mind it like the Pokémon Eevee since I think that's the more common way to pronouce Evie)
 
 ## Social links
-(Names displayed are the screen names if that differs from the actual account name)
+(Names displayed are mostly the screen names if that differs from the actual account name)
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects</small>
 - GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums</small>
