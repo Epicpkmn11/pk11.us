@@ -8,4 +8,4 @@ defaults:
   -
     values:
       layout: "default"
-      image: "/assets/images/pk11.jpg"
+      image: "/assets/images/pfp/pk11-1.png"
