@@ -12,13 +12,14 @@ img {
 	-ms-box-shadow: 0 0;
 }
 
-a {
+a, .a {
 	text-decoration: underline;
 	color: inherit;
 	font-weight: bold;
+	cursor: pointer;
 }
 
-a:hover {
+a:hover, .a:hover {
 	color: gray;
 }
 
@@ -37,7 +38,9 @@ sub {
 }
 
 small {
-	font-size: 60%;
+	font-size: 70%;
+	font-family: monospace;
+	color: gray;
 }
 
 .btn {
