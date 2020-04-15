@@ -123,3 +123,8 @@ small {
 	font-size: 8pt;
 	padding: 5px;
 }
+
+// text-dark that I don't override
+.text-dark-always {
+	color: #343a40!important;
+}
