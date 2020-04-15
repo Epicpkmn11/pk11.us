@@ -6,7 +6,7 @@ description: Various social links and such
 ## About
 Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl and I like DS(i) homebrew and just the Nintendo DSi in general, I've got DSi's in English, Japanese, and Korean. I know some Japanese, and I can mostly read Hangul, but not understand it unless maybe if its a direct transliteration of English. I mostly code in C++ since that's a language you can use for DS(i) homebrew, but I also know some Python, JavaScript, and a bit of Java. Below is just about every public account I have for things that I can remember: 
 
-(btw I prefer the pronounciation /ˈɛv.i/ (エヴィー? 에비? <audio src="/assets/sound/evie.mp3" type="audio/mpeg" controls>(There should be a sound preview here)</audio>? Any of those easier than IPA for you?), but don't mind it like the Pokémon Eevee since I think that's the more common way to pronouce Evie)
+(btw I prefer the pronounciation /ˈɛv.i/ (エヴィー / 에비 / Like in Egg), but don't mind it like the Pokémon Eevee since I think that's the more common way to pronouce Evie)
 
 ## Social links
 (Names displayed are mostly the screen names if that differs from the actual account name)
