@@ -23,3 +23,16 @@ code {
 	color: #ddd;
 	background-color: #3f3f3f;
 }
+
+.text-dark {
+	color: #f8f9fa!important;
+}
+
+.bg-light {
+	background-color: #3f3f3f!important;
+	border-color: #222!important;
+}
+
+.bg-light::placeholder {
+	color: #999;
+}

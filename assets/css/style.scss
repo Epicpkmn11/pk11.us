@@ -51,9 +51,10 @@ small {
 	color: gray;
 }
 
-.btn {
+.button {
 	text-decoration: none;
 	margin: 5px;
+	z-index: 10;
 }
 
 // Override bootstrap's primary color
@@ -68,6 +69,16 @@ small {
 .btn-primary:hover {
 	color: rgba(0, 0, 0, 0.7);
 	opacity: 0.8;
+}
+.btn-outline-primary {
+	color: {{ page.color | default: site.color }};
+	border-color: {{ page.color | default: site.color }};
+}
+.btn-outline-primary:hover {
+	// color: rgba(0, 0, 0, 0.7);
+	background-color: {{ page.color | default: site.color }};
+	border-color: {{ page.color | default: site.color }};
+	// opacity: 0.8;
 }
 .text-primary {
 	background-color: {{ page.color | default: site.color }}!important;

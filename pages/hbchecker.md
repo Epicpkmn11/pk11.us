@@ -7,10 +7,10 @@ permalink: /hbchecker
 
 {:#download}
 ## Download:
-[HBChecker.exe](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #exeDownload}
-[HBChecker.py](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #pyDownload}
-[HBCheckerItems.json](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #jsonDownload}
-[AltHBCheckerItems.zip](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #altJsonDownload}
+[HBChecker.exe](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary .button #exeDownload}
+[HBChecker.py](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary .button #pyDownload}
+[HBCheckerItems.json](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary .button #jsonDownload}
+[AltHBCheckerItems.zip](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary .button #altJsonDownload}
 ##### The latest release is [latest](https://github.com/Epicpkmn11/HBChecker/releases/latest/){:#relNum}
 
 ## It is currently tested for:

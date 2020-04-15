@@ -12,6 +12,12 @@
 		{{ site.title }}
 	</title>
 
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+	<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" type="text/css" media="screen" href="" id="theme">
+	<script src="/assets/js/theme.js"></script>
+
 	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/assets/images/favicon/apple-touch-icon-57x57.png" />
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/images/favicon/apple-touch-icon-114x114.png" />
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/images/favicon/apple-touch-icon-72x72.png" />
@@ -33,93 +39,27 @@
 	<meta name="msapplication-wide310x150logo" content="/assets/images/favicon/mstile-310x150.png" />
 	<meta name="msapplication-square310x310logo" content="/assets/images/favicon/mstile-310x310.png" />
 
-
 {% seo %}
-
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-	<link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	<link rel="stylesheet" type="text/css" media="screen" href="" id="theme">
-	<script src="/assets/js/theme.js"></script>
 </head>
 
 <body>
 	<div class="content">
-		<nav class="navbar navbar-expand-sm navbar-light bg-primary">
-			<div class="container-fluid maxwidth">
-				<span class="navbar-brand">
-					{% if site.title != page.title %}
-					{{ page.title }} |
-					{% endif %}
-					<a class="navbar-brand mb-0 h1" href="/">{{ site.title }}</a>
-				</span>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav">
-						{% for item in site.data.nav.toc %}
-							{% if item.url %}
-								<li class="nav-item">
-									<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
-								</li>
-							{% endif %}
-							{% if item.items %}
-								<li class="nav-item dropdown">
-									<a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
-									<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-										{% for entry in item.items %}
-											<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
-										{% endfor %}
-									</div>
-									<noscript>
-										<!-- Fallback hover menu -->
-										<div class="dropdown-menu show hover-content">
-											{% for entry in item.items %}
-												<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
-											{% endfor %}
-										</div>
-									</noscript>
-								</li>
-							{% endif %}
-						{% endfor %}
-						<li class="nav-item">
-							<a class="nav-link" href="https://github.com/{{ page.repo | default: site.repo }}">Source</a>
-						</li>
-					</ul>
-				</div>
-
-				{% if page.description %}
-					<header>
-						<small class="text-dark">// {{ page.description }}</small>
-					</header>
-				{% endif %}
-			</div>
-		</nav>
+		{% include nav.html %}
 
 		<main>
-			<button onclick="changeTheme()" class="btn btn-primary btn-change-theme">Change theme</button>
+			<button onclick="changeTheme()" class="btn btn-primary button btn-change-theme">Change theme</button>
 			<div class="container-fluid">
 				<div class="row pt-5">
 					<div class="col-sm-2"></div>
 					<div class="col-sm-8">
-						<!-- <section class="main-content"> -->
-							{{ content }}
-						<!-- </section> -->
+						{{ content }}
 					</div>
 				</div>
 			</div>
 		</main>
 	</div>
 
-	<footer class="bg-dark">
-		<div class="container">
-			<p class="text-light">
-				By: <a href="https://github.com/Epicpkmn11" class="link">Pk11</a> .o/<br>
-				Published with <a href="https://pages.github.com">GitHub Pages</a>, view <a href="https://github.com/Epicpkmn11/epicpkmn11.github.io">the source</a> on GitHub.
-			</p>
-		</div>
-	</footer>
+	{% include footer.html %}
 
 	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>

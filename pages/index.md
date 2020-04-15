@@ -13,10 +13,10 @@ I'm Pk11, I make [pkmn-chest](https://universal-team.github.io/pkmn-chest) and h
 I'm not really sure what to put here... So check out my about page for more info about me, or the project links below for things I've done.
 
 ## Projects:
-[pkmn-chest](https://universal-team.github.io/projects/pkmn-chest.html){:.btn .btn-primary}
-[HBChecker](hbchecker){:.btn .btn-primary}
-[nftr-editor](nftr-editor){:.btn .btn-primary}
-[Remove ._ files](https://github.com/Epicpkmn11/Remove-._-files){:.btn .btn-primary}
-[NDSRomTrimmer](https://github.com/Epicpkmn11/NDSRomTrimmer){:.btn .btn-primary}
+[pkmn-chest](https://universal-team.github.io/projects/pkmn-chest.html){:.btn .btn-primary .button}
+[HBChecker](hbchecker){:.btn .btn-primary .button}
+[nftr-editor](nftr-editor){:.btn .btn-primary .button}
+[Remove ._ files](https://github.com/Epicpkmn11/Remove-._-files){:.btn .btn-primary .button}
+[NDSRomTrimmer](https://github.com/Epicpkmn11/NDSRomTrimmer){:.btn .btn-primary .button}
 
 <script src="/assets/js/splashes.js"></script>
