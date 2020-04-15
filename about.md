@@ -13,12 +13,12 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects</small>
 - GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums</small>
-- Discord: @Evie11#3666, @Pk11#1288 (don't use much) <small>// I'm active in TWL Mode Hacking and Universal-Server (pls no DM's thx)</small>
+- Discord: @Evie11#3666, @Pk11#1288 (inactive) <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (pls no DM's thx)</small>
 - E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Don't be surprised if I don't reply, I read all my emails regularly though</small>
 
 ### Other <small>// Sites I sometimes use</small>
 - Crowdin: [Pk11](https://crowdin.com/profile/Pk11) <small>// Universal-Team translations are all on my account, reach out to me if you want to help translate someting ^_^</small>
-- Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/), also [Epicpk11](https://www.reddit.com/u/Epicpk11) but I never use it <small>// Sometimes I try to help out on r/NDSHacks</small>
+- Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/), [Epicpk11](https://www.reddit.com/u/Epicpk11) (inactive) <small>// Sometimes I try to help out on r/NDSHacks</small>
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// I recommend you read like everything on my 'Reading' and 'Read' lists lol (Note: Very trans ;P)</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// ももいろクローバーＺ is my favorite artist right now, with 行くぜっ！怪盗少女 being my favorite song</small>
 - Twitch: [Epicpkmn11](https://www.twitch.tv/Epicpkmn11) <small>// I don't stream, I watch a few sometimes though</small>
@@ -35,7 +35,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - LINE Timeline: [Pk11](https://timeline.line.me/user/_dVRz1-TMEIXMntRk6XV-g26IDbRae0bLZ3jpsqM) <small>// I like LINE for talking, sometimes I post pictures on here</small>
 - Listen.moe: [Pk11](https://listen.moe/u/pk11) <small>// When I get bored of my iTunes songs sometimes I listen on here</small>
 - MangaDex: [Evie11](https://mangadex.org/user/471397/evie11) <small>// I don't read manga all too much either, Magical Trans is good though</small>
-- Minecraft: Epicpkmn11 <small>// Minecraft's fun</small>
+- Minecraft: Epicpkmn11 <small>// Don't have a link for this one, but Minecraft's fun ;P</small>
 - Mixer: [Epicpkmn11](https://mixer.com/Epicpkmn11) <small>// What I said for Twitch, but I haven't it in a few years</small>
 - Scratch: [Epicpkmn11](https://scratch.mit.edu/users/Epicpkmn11/) <small>// lol, I put a couple things on here in 8<sup>th</sup> grade</small>
 - Steam: [Pk11](https://steamcommunity.com/id/epicpkmn11/) <small>// I don't play PC games much</small>
@@ -77,9 +77,8 @@ I've kept every revision I've made to my profile pics over the years and Dropbox
 
   ![Pk11 (1)](/assets/images/pfp/pk11-1.png)
 
-- 2019-11-15 - Evie 1.png <small>// I started feeling that my old ones were a bit too impersonal, so I drew myself as a cat girl! ;P I wouldn't say I *dislike* this drawing necessarily, but I do *much* prefer the style I achived with my next one.</small>
-
-  <small>// (These were drawn in Colors! for the Nintendo DS, as opposed to to my old ones all being from Paint.NET, I also finally know the exact dates since I uploaded them to Colors! Live. You can click these for full size since they were exported at max size)</small>
+- 2019-11-15 - Evie 1.png <small>// I started feeling that my old ones were a bit too impersonal, so I drew myself as a nekomimi! ;P I wouldn't say I *dislike* this drawing necessarily, but I do *much* prefer the style I achived with my next one.</small>
+  <br><small>// (These were drawn in Colors! for the Nintendo DS, as opposed to to my old ones all being from Paint.NET, I also finally know the exact dates since I uploaded them to Colors! Live. You can click these for full size since they were exported at max size)</small>
 
   [![Evie (1)](/assets/images/pfp/evie-1.png)](/assets/images/pfp/evie-1.png)
 
