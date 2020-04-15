@@ -1,5 +1,5 @@
 if(getTheme() == 'light') {
-	document.getElementById('theme').href = '/assets/css/light.css';
+	document.getElementById('theme').href = '';
 } else if(getTheme() == 'dark') {
 	document.getElementById('theme').href = '/assets/css/dark.css';
 }
@@ -14,7 +14,7 @@ function setTheme(theme) {
 
 function changeTheme() {
 	if(getTheme() == 'dark') {
-		document.getElementById('theme').href = '/assets/css/light.css';
+		document.getElementById('theme').href = '';
 		setTheme('light');
 	} else {
 		document.getElementById('theme').href = '/assets/css/dark.css';

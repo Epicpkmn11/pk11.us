@@ -3,6 +3,7 @@
 
 body {
 	color: #ccc;
+	background-color: #333;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,14 +18,4 @@ blockquote {
 code {
 	color: #ddd;
 	background-color: #3f3f3f;
-	font-family: Menlo, Consolas, "Courier New", Courier, "Liberation Mono", monospace;
-}
-
-#main_content_wrap {
-	background: #2f2f2f;
-}
-
-.btn {
-	background-color: #3f3f3f;
-	color: #ddd;
 }

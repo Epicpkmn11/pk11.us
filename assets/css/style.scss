@@ -1,96 +1,114 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
-img {
-	// Don't glow!
-	box-shadow: 0 0;
-	-webkit-box-shadow: 0 0;
-	-moz-box-shadow: 0 0;
-	-o-box-shadow: 0 0;
-	-ms-box-shadow: 0 0;
+// For the bottom aligned footer
+html, body {
+	height: 100%;
+}
+body {
+	display: flex;
+	flex-direction: column;
+}
+.content {
+	flex: 1 0 auto;
+}
+footer {
+	flex-shrink: 0;
+	padding-top: 20px;
 }
 
+h2 {
+	border-bottom: 1px solid gray;
+}
+
+blockquote {
+	color: #666;
+	margin-bottom: 20px;
+	padding: 0 0 0 20px;
+	border-left: 3px solid #bbb;
+}
+
+code {
+	color: #333;
+	background-color: #ddd;
+	padding: 3px;
+	border-radius: 0.25rem;
+}
+
+// .a is for making other things look like <a>'s
 a, .a {
 	text-decoration: underline;
 	color: inherit;
 	font-weight: bold;
 	cursor: pointer;
 }
-
 a:hover, .a:hover {
 	color: gray;
 }
 
-sub, sup {
-	font-size: 75%;
-	line-height: 0;
-	position: relative;
-	vertical-align: baseline;
-}
-sup {
-	top: -0.5em;
-}
-
-sub {
-	bottom: -0.25em;
-}
-
 small {
-	font-size: 70%;
-	font-family: monospace;
+	font-size: 75%;
 	color: gray;
 }
 
 .btn {
-	display:inline-block;
-	padding: 6px 15px;
-	margin: 2px;
-	border: none;
-	cursor: pointer;
-	font-style: normal;
-	font-size: 20px;
-	color: #333;
 	text-decoration: none;
-	background-color: #ddd;
-	font-weight: normal;
-}
-.btn:hover {
-	text-decoration: none;
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin: 5px;
 }
 
-.pfp {
-	margin-bottom: -15px;
+// Override bootstrap's primary color
+.bg-primary {
+	background-color: {{ page.color | default: site.color }}!important;
+}
+.btn-primary {
+	color: rgba(0, 0, 0, 0.7);
+	background-color: {{ page.color | default: site.color }}!important;
+	border-color: {{ page.color | default: site.color }}!important;
+}
+.btn-primary:hover {
+	color: rgba(0, 0, 0, 0.7);
+	opacity: 0.8;
+}
+.text-primary {
+	background-color: {{ page.color | default: site.color }}!important;
 }
 
-.inner {
-	max-width: 960px;
+// No underline on navbar links
+.navbar-light a {
+	text-decoration: none;;
 }
 
-.hidden {
+// Dim navbar-brand on hover
+.navbar-light a.navbar-brand:hover {
+	opacity: 0.5;
+}
+
+// Override nav-link color
+.navbar-light .nav-link {
+	color: rgba(0, 0, 0, 0.7)!important;
+}
+.navbar-light .nav-link:hover {
+	color: rgba(0, 0, 0, 0.5)!important;
+}
+
+// Fallback for if JS is disabled
+.dropdown .hover-content {
 	display: none;
 }
-
-.title {
-	text-decoration: none;
+.dropdown:hover .hover-content {
+	display: block;
 }
 
-#forkme_banner {
-	background-color: #ffb6c1;
-	right: 30px;
-	text-decoration: none;
+// Make images smaller
+.img-small {
+	max-width: 250px;
+	max-height: 250px;
 }
 
-#forkme_banner:hover {
-	background-color: #e4a0ab;
-}
-
-#main_content_wrap {
-	border: 0;
-}
-
-#project_tagline {
-	color: lightgray;
+.btn-change-theme {
+	position: absolute;
+	right: 5px;
+	margin-right: 0;
+	font-size: 8pt;
+	padding: 5px;
 }

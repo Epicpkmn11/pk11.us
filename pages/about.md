@@ -1,6 +1,7 @@
 ---
 title: About
 description: Various social links and such
+permalink: /about
 ---
 
 ## About
@@ -80,11 +81,11 @@ I've kept every revision I've made to my profile pics over the years and Dropbox
 - 2019-11-15 - Evie 1.png <small>// I started feeling that my old ones were a bit too impersonal, so I drew myself as a nekomimi! ;P I wouldn't say I *dislike* this drawing necessarily, but I do *much* prefer the style I achived with my next one.</small>
   <br><small>// (These were drawn in Colors! for the Nintendo DS, as opposed to to my old ones all being from Paint.NET, I also finally know the exact dates since I uploaded them to Colors! Live. You can click these for full size since they were exported at max size)</small>
 
-  [![Evie (1)](/assets/images/pfp/evie-1.png)](/assets/images/pfp/evie-1.png)
+  [![Evie (1)](/assets/images/pfp/evie-1.png){:.img-small}](/assets/images/pfp/evie-1.png)
 
 - 2020-02-13 - Evie 2.png <small>// As of writing this I'd say that I legitimetly like this picture, my last one just kinda felt a bit *off*. Not *bad*, just not quite right, it was my first real attempt to draw well... anything in like at least 5 years though. This one I think does a pretty good job capturing the feel I was going for. Maybe I'll come back in another 3 months with something better, but for now I quite like it ^_^</small>
 
-  [![Evie (2)](/assets/images/pfp/evie-2.png)](/assets/images/pfp/evie-2.png)
+  [![Evie (2)](/assets/images/pfp/evie-2.png){:.img-small}](/assets/images/pfp/evie-2.png)
 
 <small>// Both of my Evie ones have a few variants with trans flag backgrounds, I left them out though as their just different backgrounds</small>
 

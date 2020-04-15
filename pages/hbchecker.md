@@ -1,14 +1,16 @@
 ---
 title: HBChecker
 description: A python script that checks something (ex. A DSi's SD card) to see if specific files are missing or corrupted
+repo: Epicpkmn11/HBChecker
+permalink: /hbchecker
 ---
 
 {:#download}
 ## Download:
-[HBChecker.exe](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn #exeDownload}
-[HBChecker.py](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn #pyDownload}
-[HBCheckerItems.json](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn #jsonDownload}
-[AltHBCheckerItems.zip](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn #altJsonDownload}
+[HBChecker.exe](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #exeDownload}
+[HBChecker.py](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #pyDownload}
+[HBCheckerItems.json](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #jsonDownload}
+[AltHBCheckerItems.zip](https://github.com/Epicpkmn11/HBChecker/releases/latest){:.btn .btn-primary #altJsonDownload}
 ##### The latest release is [latest](https://github.com/Epicpkmn11/HBChecker/releases/latest/){:#relNum}
 
 ## It is currently tested for:
@@ -16,12 +18,11 @@ description: A python script that checks something (ex. A DSi's SD card) to see 
 - TWiLight Menu++ v9.4.0
 
 ## To Run:
+1. Place `HBChecker.py` or `HBChecker.exe` and `HBCheckerItems.json` on the <em>root</em> of your SD card
+  - Windows: Run `HBChecker.exe` <span style="font-size: 60%">(Note: This may be falsely detected this as a virus, it is not, it's just a false positive)</span>
+  - Linux/macOS/other: Run `HBChecker.py` using [Python](https://www.python.org){:target="_blank"} 2 or 3
 
-1. Place <a href="#downloads">`HBChecker.py`</a> or <a href="#downloads">`HBChecker.exe`</a> and <a href="#downloads">`HBCheckerItems.json`</a> on the <em>root</em> of your SD card
-  - Windows: Run <a href="#downloads">`HBChecker.exe`</a> <span style="font-size: 60%">(Note: This may be falsely detected this as a virus, it is not, it's just a false positive)</span>
-  - Linux/macOS/other: Run <a href="#downloads">`HBChecker.py`</a> using <a href="https://www.python.org" class="link" target="_blank">Python</a> 2 or 3
-
-2. With the default <a href="#downloads">`HBCheckerItems.json`</a> it will check for <em>HiyaCFW</em> and <em>TWiLight Menu++</em> <span style="font-size: 60%">(But not for corruption of TWLMenu, see <a class="link" href="#TWLCRC">steps below</a>)</span>
+2. With the default `HBCheckerItems.json` it will check for <em>HiyaCFW</em> and <em>TWiLight Menu++</em> <small>(But not for corruption of TWLMenu, see steps below)</small>
 
 3. Make sure `HiyaCFW Main`, `HiyaCFW [your region]`, and `TWLMenu++` are found
 
@@ -29,9 +30,8 @@ description: A python script that checks something (ex. A DSi's SD card) to see 
 
 5. If any weren't found, enter the corresponding number to manually check for it
 
-
 ## If you want to check TWiLight Menu++ files for corruption:
-- Download <a href="#downloads">`AltHBCheckerItems.zip`</a>
+- Download `AltHBCheckerItems.zip`
 
 - Remove `HBCheckerItem.json` from the same directory as `HBChecker.exe` / `HBChecker.py`
 
