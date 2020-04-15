@@ -9,3 +9,4 @@ defaults:
     values:
       layout: "default"
       title: "Pk11"
+      image: "/assets/images/pfp/pk11-1.png"
