@@ -1,6 +1,7 @@
 ---
 title: About
 description: Various social links and such
+image: "/assets/images/pfp/evie-2.png"
 permalink: /about
 ---
 
