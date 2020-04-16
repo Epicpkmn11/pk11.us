@@ -23,7 +23,8 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/), [Epicpk11](https://www.reddit.com/u/Epicpk11) (inactive) <small>// Sometimes I try to help out on r/NDSHacks</small>
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// I recommend you read like everything on my 'Reading' and 'Read' lists lol (Note: Very trans ;P)</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// ももいろクローバーＺ is my favorite artist right now, with 行くぜっ！怪盗少女 being my favorite song</small>
-- Twitch: [Epicpkmn11](https://www.twitch.tv/Epicpkmn11) <small>// I don't stream, I watch a few sometimes though</small>
+- Twitch: [Evie11\_](https://www.twitch.tv/Evie11_) <small>// I don't stream, I watch a few sometimes though</small>
+- Twitter: [Evie](https://twitter.com/Evie11__) <small>// Mostly just a way to get pictures off my Switch ;P</small>
 - YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I've got some old unlisted videos, sometimes I even relist them before remebering I don't like them</small>
 
 ### Random <small>// Sites I rarely use and/or are kinda random</small>
