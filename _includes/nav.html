@@ -18,23 +18,21 @@
 						</li>
 					{% endif %}
 					{% if item.items %}
-						<li class="nav-item">
-							<div class="dropdown">
-								<a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
-								<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+						<li class="nav-item dropdown">
+							<a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+								{% for entry in item.items %}
+									<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
+								{% endfor %}
+							</div>
+							<noscript>
+								<!-- Fallback hover menu -->
+								<div class="dropdown-menu show hover-content">
 									{% for entry in item.items %}
 										<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
 									{% endfor %}
 								</div>
-								<noscript>
-									<!-- Fallback hover menu -->
-									<div class="dropdown-menu show hover-content">
-										{% for entry in item.items %}
-											<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
-										{% endfor %}
-									</div>
-								</noscript>
-							</div>
+							</noscript>
 						</li>
 					{% endif %}
 				{% endfor %}
