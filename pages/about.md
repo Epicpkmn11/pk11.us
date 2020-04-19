@@ -8,7 +8,7 @@ permalink: /about
 ## About
 Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl and I like DS(i) homebrew and just the Nintendo DSi in general, I've got DSi's in English, Japanese, and Korean. I know some Japanese, and I can mostly read Hangul, but not understand it unless maybe if its a direct transliteration of English. I mostly code in C++ since that's a language you can use for DS(i) homebrew, but I also know some Python, JavaScript, and a bit of Java. Below is just about every public account I have for things that I can remember: 
 
-(btw I prefer the pronounciation /ˈɛv.i/ (エヴィー / 에비 / The E like in Egg), but don't mind it like the Pokémon Eevee since I think that's the more common way to pronouce Evie)
+(btw I prefer the pronunciation /ˈɛv.i/ (エヴィー / 에비 / The E like in Egg), but don't mind it like the Pokémon Eevee since I think that's the more common way to pronounce Evie)
 
 ## Social links
 (Names displayed are mostly the screen names if that differs from the actual account name)
@@ -19,17 +19,17 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Don't be surprised if I don't reply, I read all my emails regularly though</small>
 
 ### Other <small>// Sites I sometimes use</small>
-- Crowdin: [Pk11](https://crowdin.com/profile/Pk11) <small>// Universal-Team translations are all on my account, reach out to me if you want to help translate someting ^_^</small>
+- Crowdin: [Pk11](https://crowdin.com/profile/Pk11) <small>// Universal-Team translations are all on my account, reach out to me if you want to help translate something ^_^</small>
 - Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/), [Epicpk11](https://www.reddit.com/u/Epicpk11) (inactive) <small>// Sometimes I try to help out on r/NDSHacks</small>
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// I recommend you read like everything on my 'Reading' and 'Read' lists lol (Note: Very trans ;P)</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// ももいろクローバーＺ is my favorite artist right now, with 行くぜっ！怪盗少女 being my favorite song</small>
 - Twitch: [Evie11\_](https://www.twitch.tv/Evie11_) <small>// I don't stream, I watch a few sometimes though</small>
 - Twitter: [Evie](https://twitter.com/Evie11__) <small>// Mostly just a way to get pictures off my Switch ;P</small>
-- YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I've got some old unlisted videos, sometimes I even relist them before remebering I don't like them</small>
+- YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I've got some old unlisted videos, sometimes I even re-list them before remembering I don't like them</small>
 
 ### Random <small>// Sites I rarely use and/or are kinda random</small>
 - AO3: [Evie11](https://archiveofourown.org/users/Evie11) <small>// I haven't written anything and don't read all too many fanfics, so I don't go on here all too often</small>
-- Cheif Delphi: [Epicpkmn11](https://www.chiefdelphi.com/u/epicpkmn11) <small>// I was in robotics in high school, I haven't been on here since</small>
+- Chief Delphi: [Epicpkmn11](https://www.chiefdelphi.com/u/epicpkmn11) <small>// I was in robotics in high school, I haven't been on here since</small>
 - Colors! Live: [Evie11](https://www.colorslive.com/artist/Evie11) <small>// Anything I draw in Colors! I'll likely post on here so you can watch the quick draws</small>
 - Dailymotion: [Pk11](https://www.dailymotion.com/Epicpkmn11music) <small>// Uploaded a few Pokémon and Dinosaur King OP's here, most got taken down for copyright</small>
 - Fandom: [Epicpkmn11](https://dinosaurking.fandom.com/wiki/Message_Wall:Epicpkmn11) <small>// I updated a little bit of the Dinosaur King things</small>
@@ -49,7 +49,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Wattpad: [Pk11](https://www.wattpad.com/user/Epicpkmn11) <small>// Made this only to follow my sister's friend's classmate lol</small>
 - Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11) <small>// I play Xbox games *even less* than PlayStation games</small>
 
-If you're curious, I started switching to Pk11 somewhere around early to mid 2019, I've retoactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and somtimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11.
+If you're curious, I started switching to Pk11 somewhere around early to mid 2019, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11.
 
 If you somehow find an account that you think is mine (would probably be Epicpkmn11 with my profile pic of the time) then feel free to email me or something lol, I'm pretty sure I've got all the public ones ;P
 
@@ -70,22 +70,22 @@ I've kept every revision I've made to my profile pics over the years and Dropbox
 
 - 2019-01-08 - Epicpkmn11 CD 1.png <small>// Wow, this I can both confirm is right ± maybe 5 days but I thought it was longer ago...</small>
 
-  ![Epicpkmn11 (Cheif Delphi 1)](/assets/images/pfp/epicpkmn11-cd-1.png)
+  ![Epicpkmn11 (Chief Delphi 1)](/assets/images/pfp/epicpkmn11-cd-1.png)
 
-- 2019-01-08 - Epicpkmn11 CD 2.png <small>// Not even sure why I kept the last one, I didn't even use it for a day, but these were both made specifically for Cheif Delphi to incorporate our robotics team's logo</small>
+- 2019-01-08 - Epicpkmn11 CD 2.png <small>// Not even sure why I kept the last one, I didn't even use it for a day, but these were both made specifically for Chief Delphi to incorporate our robotics team's logo</small>
 
-  ![Epicpkmn11 (Cheif Delphi 2)](/assets/images/pfp/epicpkmn11-cd-2.png)
+  ![Epicpkmn11 (Chief Delphi 2)](/assets/images/pfp/epicpkmn11-cd-2.png)
 
 - 2019-01-16 - Pk11 1.png <small>// Wait January? I thought it was later in 2019, guess it was January or I can time travel though, this is still one I sometimes use, though not as much recently (Yes, it is named 1 and no there isn't a second)</small>
 
   ![Pk11 (1)](/assets/images/pfp/pk11-1.png)
 
-- 2019-11-15 - Evie 1.png <small>// I started feeling that my old ones were a bit too impersonal, so I drew myself as a nekomimi! ;P I wouldn't say I *dislike* this drawing necessarily, but I do *much* prefer the style I achived with my next one.</small>
+- 2019-11-15 - Evie 1.png <small>// I started feeling that my old ones were a bit too impersonal, so I drew myself as a nekomimi! ;P I wouldn't say I *dislike* this drawing necessarily, but I do *much* prefer the style I achieved with my next one.</small>
   <br><small>// (These were drawn in Colors! for the Nintendo DS, as opposed to to my old ones all being from Paint.NET, I also finally know the exact dates since I uploaded them to Colors! Live. You can click these for full size since they were exported at max size)</small>
 
   [![Evie (1)](/assets/images/pfp/evie-1.png){:.img-small}](/assets/images/pfp/evie-1.png)
 
-- 2020-02-13 - Evie 2.png <small>// As of writing this I'd say that I legitimetly like this picture, my last one just kinda felt a bit *off*. Not *bad*, just not quite right, it was my first real attempt to draw well... anything in like at least 5 years though. This one I think does a pretty good job capturing the feel I was going for. Maybe I'll come back in another 3 months with something better, but for now I quite like it ^_^</small>
+- 2020-02-13 - Evie 2.png <small>// As of writing this I'd say that I legitimately like this picture, my last one just kinda felt a bit *off*. Not *bad*, just not quite right, it was my first real attempt to draw well... anything in like at least 5 years though. This one I think does a pretty good job capturing the feel I was going for. Maybe I'll come back in another 3 months with something better, but for now I quite like it ^_^</small>
 
   [![Evie (2)](/assets/images/pfp/evie-2.png){:.img-small}](/assets/images/pfp/evie-2.png)
 
