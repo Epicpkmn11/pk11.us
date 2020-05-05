@@ -92,3 +92,10 @@ I've kept every revision I've made to my profile pics over the years and Dropbox
 <small>// Both of my Evie ones have a few variants with trans flag backgrounds, I left them out though as their just different backgrounds</small>
 
 <!-- Fine, there's one at /assets/images/pfp/evie-2-trans-heart.png... That's why you're looking at comments here, right? -->
+
+## Fan art I guess
+Apparently I'm popular enough to get fan art now ;P <small>// Maybe? I dunno? I guess people are drawing me things</small>
+
+- By: [Code807](https://twitter.com/code_807) (2020-05-05)
+
+  [![Evie (By Code807)](/assets/images/art/evie-code807.png){:.img-small}](/assets/images/art/evie-code807.png)
