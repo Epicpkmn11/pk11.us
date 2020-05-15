@@ -121,13 +121,13 @@ small {
     overflow: hidden;
     visibility: hidden;
 }
-.dropdown-menu.show, .dropdown:hover .hover-contentΩ {
+.dropdown-menu.show, .dropdown:hover .hover-content {
 	height: auto;
 	padding: 0.5rem 0;
 	visibility: visible;
 }
 
-.dropdown-item:hover {
+.dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
 	background-color: rgba(0, 0, 0, 0.2);
 }
 
