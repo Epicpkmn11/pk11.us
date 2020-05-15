@@ -103,11 +103,11 @@ small {
 }
 
 // And the active nav-link color
-.navbar-light .nav-link .active {
+.navbar-light .nav-link.active {
 	color: rgba(0, 0, 0, 1)!important;
 }
-.navbar-light .nav-link .active:hover {
-	color: rgba(0, 0, 0, 0.5)!important;
+.navbar-light .nav-link.active:hover {
+	color: rgba(0, 0, 0, 0.7)!important;
 }
 
 // Fallback for if JS is disabled
