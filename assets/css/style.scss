@@ -67,7 +67,7 @@ small {
 	border-color: {{ page.color | default: site.color }}!important;
 }
 .btn-primary:hover, .btn-primary:active {
-	color: rgba(0, 0, 0, 0.7);
+	color: rgba(0, 0, 0, 0.7)!important;
 	opacity: 0.8;
 }
 .btn-outline-primary {
@@ -75,8 +75,8 @@ small {
 	border-color: {{ page.color | default: site.color }};
 }
 .btn-outline-primary:hover, .btn-outline-primary:active {
-	background-color: {{ page.color | default: site.color }};
-	border-color: {{ page.color | default: site.color }};
+	background-color: {{ page.color | default: site.color }}!important;
+	border-color: {{ page.color | default: site.color }}!important;
 }
 .text-primary {
 	background-color: {{ page.color | default: site.color }}!important;
