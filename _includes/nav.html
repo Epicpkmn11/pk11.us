@@ -14,12 +14,16 @@
 				{% for item in site.data.nav.toc %}
 					{% if item.url %}
 						<li class="nav-item">
-							<a class="nav-link" href="{{ item.url }}">{{ item.title }}</a>
+							<a class="nav-link {% if item.title == page.title %} active {% endif %}" href="{{ item.url }}">{{ item.title }}</a>
 						</li>
 					{% endif %}
 					{% if item.items %}
 						<li class="nav-item dropdown">
-							<a class="nav-link active dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+							<a class="nav-link
+								{% for entry in item.items %}
+									{% if entry.title == page.title %} active {% endif %}
+								{% endfor %}
+							dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
 								{% for entry in item.items %}
 									<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>

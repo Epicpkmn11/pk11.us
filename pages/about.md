@@ -94,7 +94,7 @@ I've kept every revision I've made to my profile pics over the years and Dropbox
 <!-- Fine, there's one at /assets/images/pfp/evie-2-trans-heart.png... That's why you're looking at comments here, right? -->
 
 ## Fan art I guess
-Apparently I'm popular enough to get fan art now ;P <small>// Maybe? I dunno? I guess people are drawing me things</small>
+Apparently I'm popular enough to get fan art now ;P ~~more like just art of me, but fan art sounds more fun~~
 
 - By: [Code807](https://twitter.com/code_807) (2020-05-05)
 
