@@ -61,7 +61,7 @@ small {
 .bg-primary {
 	background-color: {{ page.color | default: site.color }}!important;
 }
-.btn-primary {
+.btn-primary, .btn-primary:focus {
 	color: rgba(0, 0, 0, 0.7);
 	background-color: {{ page.color | default: site.color }}!important;
 	border-color: {{ page.color | default: site.color }}!important;
@@ -74,11 +74,9 @@ small {
 	color: {{ page.color | default: site.color }};
 	border-color: {{ page.color | default: site.color }};
 }
-.btn-outline-primary:hover {
-	// color: rgba(0, 0, 0, 0.7);
+.btn-outline-primary:hover, .btn-outline-primary:active {
 	background-color: {{ page.color | default: site.color }};
 	border-color: {{ page.color | default: site.color }};
-	// opacity: 0.8;
 }
 .text-primary {
 	background-color: {{ page.color | default: site.color }}!important;
