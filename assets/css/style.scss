@@ -35,7 +35,7 @@ code {
 	border-radius: 0.25rem;
 }
 
-// .a is for making other things look like <a>'s
+// .a is for making other things look like <a>s
 a, .a {
 	text-decoration: underline;
 	color: inherit;
@@ -57,7 +57,7 @@ small {
 	z-index: 10;
 }
 
-// Override bootstrap's primary color
+// Override bootstraps primary color
 .bg-primary {
 	background-color: {{ page.color | default: site.color }}!important;
 }
@@ -102,6 +102,14 @@ small {
 	color: rgba(0, 0, 0, 0.5)!important;
 }
 
+// And the active nav-link color
+.navbar-light .nav-link .active {
+	color: rgba(0, 0, 0, 1)!important;
+}
+.navbar-light .nav-link .active:hover {
+	color: rgba(0, 0, 0, 0.5)!important;
+}
+
 // Fallback for if JS is disabled
 .dropdown .hover-content {
 	display: none;
@@ -124,11 +132,7 @@ small {
 	padding: 5px;
 }
 
-// text-dark that I don't override
+// text-dark that I dont override
 .text-dark-always {
 	color: #343a40!important;
-}
-
-.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-	color: black!important;
 }
