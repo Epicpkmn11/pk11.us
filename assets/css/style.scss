@@ -66,7 +66,7 @@ small {
 	background-color: {{ page.color | default: site.color }}!important;
 	border-color: {{ page.color | default: site.color }}!important;
 }
-.btn-primary:hover {
+.btn-primary:hover, .btn-primary:active {
 	color: rgba(0, 0, 0, 0.7);
 	opacity: 0.8;
 }
