@@ -110,12 +110,25 @@ small {
 	color: rgba(0, 0, 0, 0.6)!important;
 }
 
-// Fallback for if JS is disabled
-.dropdown .hover-content {
-	display: none;
+// Make dropdowns site-colored and animated
+.dropdown-menu, .dropdown .hover-content {
+	background-color: {{ page.color | default: site.color }};
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    display: block;
+	height: 0;
+    padding: 0;
+    overflow: hidden;
+    visibility: hidden;
 }
-.dropdown:hover .hover-content {
-	display: block;
+.dropdown-menu.show, .dropdown:hover .hover-contentΩ {
+	height: auto;
+	padding: 0.5rem 0;
+	visibility: visible;
+}
+
+.dropdown-item:hover {
+	background-color: rgba(0, 0, 0, 0.2);
 }
 
 // Make images smaller
