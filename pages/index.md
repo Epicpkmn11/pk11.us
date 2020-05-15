@@ -1,4 +1,6 @@
 ---
+title: Home
+description: Pk11's website
 permalink: /
 ---
 
