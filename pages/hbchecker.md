@@ -20,7 +20,7 @@ permalink: /hbchecker
 ## To Run:
 1. Place `HBChecker.py` or `HBChecker.exe` and `HBCheckerItems.json` on the <em>root</em> of your SD card
   - Windows: Run `HBChecker.exe` <span style="font-size: 60%">(Note: This may be falsely detected this as a virus, it is not, it's just a false positive)</span>
-  - Linux/macOS/other: Run `HBChecker.py` using [Python](https://www.python.org){:target="_blank"} 2 or 3
+  - Linux/macOS/other: Run `HBChecker.py` using [Python](https://www.python.org) 2 or 3
 
 2. With the default `HBCheckerItems.json` it will check for <em>HiyaCFW</em> and <em>TWiLight Menu++</em> <small>(But not for corruption of TWLMenu, see steps below)</small>
 
