@@ -1,5 +1,5 @@
 # pk11.us
-Pk11's GitHub site
+Pk11's website
 
 ## Building
 To test the site locally install Jekyll by running:
