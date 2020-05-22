@@ -111,13 +111,13 @@ small {
 // Make dropdowns site-colored and animated
 .dropdown-menu, .dropdown .hover-content {
 	background-color: {{ page.color | default: site.color }};
-    -webkit-transition: 300ms;
-    transition: 300ms;
-    display: block;
+	-webkit-transition: 300ms;
+	transition: 300ms;
+	display: block;
 	height: 0;
-    padding: 0;
-    overflow: hidden;
-    visibility: hidden;
+	padding: 0;
+	overflow: hidden;
+	visibility: hidden;
 }
 .dropdown-menu.show, .dropdown:hover .hover-content {
 	height: auto;
@@ -147,4 +147,19 @@ small {
 // text-dark that I dont override
 .text-dark-always {
 	color: #343a40!important;
+}
+
+// Hide header anchors unless hovering the header
+.header-anchor {
+	text-decoration: none;
+	display: none;
+}
+
+h1:hover .header-anchor,
+h2:hover .header-anchor,
+h3:hover .header-anchor,
+h4:hover .header-anchor,
+h5:hover .header-anchor,
+h6:hover .header-anchor {
+	display: inline;
 }
