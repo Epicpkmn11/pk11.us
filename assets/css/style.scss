@@ -38,12 +38,14 @@ code {
 // .a is for making other things look like <a>s
 a, .a {
 	text-decoration: underline;
+	text-decoration-thickness: 1px;
 	color: inherit;
 	font-weight: bold;
 	cursor: pointer;
 }
 a:hover, .a:hover {
 	color: gray;
+	text-decoration-thickness: 1px;
 }
 
 small {
