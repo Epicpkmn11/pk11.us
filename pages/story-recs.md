@@ -4,9 +4,9 @@ title: Story recommendations
 permalink: /about/story-recs
 ---
 ## Story recommendations
-These are sorta sorted by how much I liked them, but I wanted to split all the Kammiverse and Troubleverse stories to their own categories since there's several each and they're set in shared universes. I really liked every story on this page, so even if its lower down I still thoroughly recommend it. ^-^
+I wanted to write up a bit of a list of stories I like incase someone ever asks me for recommendations or something, so here it is. They're sorta sorted by how much I liked them, but I wanted to split all the Kammiverse and Troubleverse stories to their own categories since there's several each and they're set in shared universes so if you like one chances are you'll like more. Also, I really liked every story on this page, so even if its lower down I still thoroughly recommend it. ^-^
 
-Should probably note that most of these will have trans lesbian protagonists as I like reading stories that feel relatable I guess... I'd say they're still well written enough to probably be enjoyable for everyone though so my recommendation still applies to everyone, just more so if your a gay trans girl. ;P
+Should probably note that most of these have trans lesbian protagonists as I like reading stories that feel relatable I guess... I'd say they're still well written enough to probably be enjoyable for everyone though so my recommendation still applies to everyone, just more so if you're a gay trans girl. ;P
 
 I'll be abbreviating the site names when linking these stories, the sites are:
 - [(SH)](https://scribblehub.com "Scribble Hub"): Scribble Hub, this is my personal favorite site for reading on. Most of the stories I link will be on here.
@@ -23,7 +23,7 @@ QuietValerie's Kammiverse setting is a shared universe between many great trans 
 - ***Songbird* [(SH)][s-sh] [(TGST)][s-tgst] [(RR)][s-rr] by Trashlyn**<br>
   This story is the closest connected to Kammi Kettu with several chapters showing the same events from different perspectives. It starts off quite dark, but even in the darkest parts its still a great read. *Songbird* does a great job expanding on the world of the Kammiverse.
 - ***Falling Over* [(SH)][fo-sh] [(TGST)][fo-tgst] by QuietValerie**<br>
-  *Falling Over* is probably QuietValerie's most slice of life story, with less action than most of her other stories, but that simply means more time for queer romance, drama, and conflict, which this story excels at.
+  *Falling Over* is probably QuietValerie's most slice of life story, with less action than most of her other stories, but that simply means more time for queer romance, drama, and conflict, which this story does really well.
 - ***The Will of Bastet* [(TGST)][twob-tgst] [(RR)][twob-rr] by Kara Null**<br>
 - ***A Mouse in the Circuitry* [(SH)][amitc-sh] [(TGST)][amitc-tgst] [(RR)][amitc-rr] by Katie-the-Angel-Witch**<br>
 - ***A Wolf In Penrith* [(TGST)][awip-tgst] [(RR)][awip-rr] by DerbyGhost**<br>
@@ -31,6 +31,7 @@ QuietValerie's Kammiverse setting is a shared universe between many great trans 
   *Pellan Rise* has the characters playing the VRMMO game Pellan Rise, but as it turns out the world of Pellan Rise is be more connected to the real world that anyone expected. The story has connections to the Kammiverse later on, which is why I'm categorizing it in the Kammiverse. Unfortunately, the story has been put on permanent hiatus due to QuiteValerie losing interest in writing it, and while she did write an epilogue, it does end before really being *done*.
 
 ### Troubleverse
+The Troubleverse is another shared universe created by QuietValerie, this time its set at some point in the future. The futuristic setting is done really well, I think its supposed around a hundred or couple hundred years in the future, but its intentionally left vague, and the stories do a good job of building a world that feels like it could reasonably come from our current world while being far enough in the future to have cool futuristic tech, such as the VRMMO game CORA which is where the stories spend most of their time. CORA provides an interesting environment where the characters can do things beyond what'd be reasonable in the real world, while not going overly into feeling like a game.
 - ***Trouble With Horns* [(SH)][twh-sh] [(TGST)][twh-tgst] by QuietValerie**<br>
 - ***Illegal Alien in a MMO World* [(SH)][ia-sh] [(TGST)][ia-tgst] by Trashlyn**<br>
 - ***Snowbound* [(SH)][sb-sh] by Chirichirichiri**<br>
@@ -45,7 +46,6 @@ QuietValerie's Kammiverse setting is a shared universe between many great trans 
 - ***Jötnar: Mother Of Monsters* [(SH)][jmom-sh] by Breefolk**<br>
 - ***Unlife in a Paranormal World* [(SH)][uiapw-sh] by Savannah**<br>
 - ***I Didn't Ask To Be The Demon Queen!* [(SH)][dq-sh] by Elamimax**<br>
-- ***Neva Masquerade* [(SH)][nm-sh] by Clo**<br>
 
 <!-- Links so the above can look cleaner -->
 [kk-sh]: <https://www.scribblehub.com/series/43812/kammi-kettu/> "Kammi Kettu on Scribble Hub"
@@ -100,5 +100,3 @@ QuietValerie's Kammiverse setting is a shared universe between many great trans 
 [uiapw-sh]: <https://www.scribblehub.com/series/64351/unlife-in-a-paranormal-world/> "Unlife in a Paranormal World on Scribble Hub"
 
 [dq-sh]: <https://www.scribblehub.com/series/90390/i-didnt-ask-to-be-the-demon-queen/> "I Didn't Ask To Be The Demon Queen! on Scribble Hub"
-
-[nm-sh]: <https://www.scribblehub.com/series/99510/neva-masquerade/> "Neva Masquerade on Scribble Hub"
