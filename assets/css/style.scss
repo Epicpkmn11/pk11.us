@@ -120,8 +120,13 @@ small {
 	padding: 0;
 	overflow: hidden;
 	visibility: hidden;
+	margin: 0;
+}
+.dropdown .hover-content {
+	display: none;
 }
 .dropdown-menu.show, .dropdown:hover .hover-content {
+	display: block;
 	height: auto;
 	padding: 0.5rem 0;
 	visibility: visible;
