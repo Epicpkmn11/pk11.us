@@ -17,20 +17,29 @@ footer {
 	padding-top: 20px;
 }
 
+body {
+	color: var(--main-color);
+	background-color: var(--main-bg);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: var(--header-color);
+}
+
 h2 {
-	border-bottom: 1px solid #bbb;
+	border-bottom: 1px solid var(--borders);
 }
 
 blockquote {
-	color: #666;
+	color: var(--blockquote-color);
 	margin-bottom: 20px;
 	padding: 0 0 0 20px;
-	border-left: 3px solid #bbb;
+	border-left: 3px solid var(--borders);
 }
 
 code {
-	color: #333;
-	background-color: #ddd;
+	color: var(--code-color);
+	background-color: var(--code-bg);
 	padding: 3px;
 	border-radius: 0.25rem;
 }
@@ -44,13 +53,13 @@ a, .a {
 	cursor: pointer;
 }
 a:hover, .a:hover {
-	color: gray;
+	color: var(--a-color);
 	text-decoration-thickness: 1px;
 }
 
 small {
 	font-size: 75%;
-	color: gray;
+	color: var(--small-color);
 }
 
 .button {
@@ -61,32 +70,51 @@ small {
 
 // Override bootstraps primary color
 .bg-primary {
-	background-color: {{ page.color | default: site.color }}!important;
+	background-color: var(--primary)!important;
 }
 .btn-primary, .btn-primary:focus {
-	color: rgba(0, 0, 0, 0.7);
-	background-color: {{ page.color | default: site.color }}!important;
-	border-color: {{ page.color | default: site.color }}!important;
+	color: var(--nav-link-color);
+	background-color: var(--primary)!important;
+	border-color: var(--primary)!important;
 }
 .btn-primary:hover, .btn-primary:active {
-	color: rgba(0, 0, 0, 0.7)!important;
+	color: var(--nav-link-color)!important;
 	opacity: 0.8;
 }
 .btn-outline-primary {
-	color: {{ page.color | default: site.color }};
-	border-color: {{ page.color | default: site.color }};
+	color: var(--primary);
+	border-color: var(--primary);
 }
 .btn-outline-primary:hover, .btn-outline-primary:active {
-	background-color: {{ page.color | default: site.color }}!important;
-	border-color: {{ page.color | default: site.color }}!important;
+	background-color: var(--primary)!important;
+	border-color: var(--primary)!important;
 }
 .text-primary {
-	background-color: {{ page.color | default: site.color }}!important;
+	background-color: var(--primary)!important;
+}
+
+// Override the dark text too
+.text-dark {
+	color: var(--dark)!important;
+}
+// text-dark that I dont override
+.text-dark-always {
+	color: var(--dark-always)!important;
+}
+
+// And the light bg
+.bg-light {
+	background-color: var(--light)!important;
+	border-color: var(--light-border)!important;
+}
+
+.bg-light::placeholder {
+	color: var(--light-placeholder);
 }
 
 // No underline on navbar links
 .navbar-light a {
-	text-decoration: none;;
+	text-decoration: none;
 }
 
 // Dim navbar-brand on hover
@@ -96,23 +124,23 @@ small {
 
 // Override nav-link color
 .navbar-light .nav-link {
-	color: rgba(0, 0, 0, 0.7)!important;
+	color: var(--nav-link-color)!important;
 }
 .navbar-light .nav-link:hover {
-	color: rgba(0, 0, 0, 0.5)!important;
+	color: var(--nav-link-color-hover)!important;
 }
 
 // And the active nav-link color
 .navbar-light .nav-link.active {
-	color: rgba(0, 0, 0, 1)!important;
+	color: var(--nav-link-color-active)!important;
 }
 .navbar-light .nav-link.active:hover {
-	color: rgba(0, 0, 0, 0.6)!important;
+	color: var(--nav-link-color-hover)!important;
 }
 
 // Make dropdowns site-colored and animated
 .dropdown-menu, .dropdown .hover-content {
-	background-color: {{ page.color | default: site.color }};
+	background-color: var(--primary);
 	-webkit-transition: 300ms;
 	transition: 300ms;
 	display: block;
@@ -133,8 +161,7 @@ small {
 }
 
 .dropdown-item:hover, .dropdown-item:active, .dropdown-item:focus {
-	background-color: rgba(0, 0, 0, 0.2);
-	color: #16181b;
+	background-color: var(--dropdown-item-bg-hover);
 }
 
 // Make images smaller
@@ -149,11 +176,6 @@ small {
 	margin-right: 0;
 	font-size: 8pt;
 	padding: 5px;
-}
-
-// text-dark that I dont override
-.text-dark-always {
-	color: #343a40!important;
 }
 
 // Hide header anchors unless hovering the header

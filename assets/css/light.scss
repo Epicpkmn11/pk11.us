@@ -3,13 +3,13 @@
 
 :root {
 	// Main contents
-	--main-bg: #333;
-	--main-color: #ccc;
-	--header-color: #ddd;
-	--borders: #555;
-	--blockquote-color: #999;
-	--code-bg: #3f3f3f;
-	--code-color: #ddd;
+	--main-bg: #fff;
+	--main-color: #222;
+	--header-color: #222;
+	--borders: #bbb;
+	--blockquote-color: #666;
+	--code-bg: #ddd;
+	--code-color: #333;
 	--a-color: gray;
 	--small-color: gray;
 
@@ -19,9 +19,9 @@
 	--nav-link-color-active: rgba(0, 0, 0, 1);
 	--dropdown-item-bg-hover: rgba(0, 0, 0, 0.2);
 	--primary: {{ page.color | default: site.color }};
-	--dark: #f8f9fa;
+	--dark: #343a40;
 	--dark-always: #343a40;
-	--light: #3f3f3f;
-	--light-border: #222;
-	--light-placeholder: #999;
+	--light: #f8f9fa;
+	--light-border: #ced4da;
+	--light-placeholder: darkgray;
 }
