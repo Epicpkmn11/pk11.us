@@ -14,7 +14,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects</small>
 - GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums</small>
-- Discord: @Evie11#3666, @Pk11#1288 (inactive) <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (pls no DM's thx)</small>
+- Discord: @Pk11#3666, @Pk11#1288 (inactive) <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (pls no DM's thx)</small>
 - E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Don't be surprised if I don't reply, I read all my emails regularly though</small>
 
 ### Other <small>// Sites I sometimes use</small>
