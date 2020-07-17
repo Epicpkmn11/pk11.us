@@ -12,8 +12,8 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 ## Social links
 (Names displayed are mostly the screen names if that differs from the actual account name)
 ### Main <small>// Sites I use frequently</small>
-- GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects</small>
-- GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums, I also write [blog entries](https://gbatemp.net/blog/pk11.494739/) here sometimes.</small>
+- GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects. Including [this website](https://github.com/Epicpkmn11/pk11.us)!</small>
+- GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums, I also write [blog entries](https://gbatemp.net/blog/pk11.494739/) here sometimes</small>
 - Discord: @Pk11#3666, @Pk11#1288 (inactive) <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (pls no DM's thx)</small>
 - E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Don't be surprised if I don't reply, I read all my emails regularly though</small>
 
@@ -23,25 +23,25 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// I recommend you read like everything on my 'Reading' and 'Read' lists lol (Note: Very trans ;P)</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// ももいろクローバーＺ is my favorite artist right now, with 行くぜっ！怪盗少女 being my favorite song</small>
 - Twitch: [Evie11\_](https://www.twitch.tv/Evie11_) <small>// I don't stream, I watch a few sometimes though</small>
-- Twitter: [Evie](https://twitter.com/Evie11__) <small>// Mostly just a way to get pictures off my Switch ;P</small>
+- Twitter: [Evie](https://twitter.com/Evie11__) <small>// Mostly just a way to get pictures off my Switch, I don't like social media much ;P</small>
 - YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I've got some old unlisted videos, sometimes I even re-list them before remembering I don't like them</small>
 
 ### Random <small>// Sites I rarely use and/or are kinda random</small>
 - AO3: [Evie11](https://archiveofourown.org/users/Evie11) <small>// I haven't written anything and don't read all too many fanfics, so I don't go on here all too often</small>
 - Chief Delphi: [Epicpkmn11](https://www.chiefdelphi.com/u/epicpkmn11) <small>// I was in robotics in high school, I haven't been on here since</small>
-- Colors! Live: [Evie11](https://www.colorslive.com/artist/Evie11) <small>// Anything I draw in Colors! I'll likely post on here so you can watch the quick draws</small>
+- Colors! Live: [Evie11](https://www.colorslive.com/artist/Evie11) <small>// I posted my recent avatars here since they were made in Colors!, but DS support has been removed</small>
 - Dailymotion: [Pk11](https://www.dailymotion.com/Epicpkmn11music) <small>// Uploaded a few Pokémon and Dinosaur King OP's here, most got taken down for copyright</small>
 - Fandom: [Epicpkmn11](https://dinosaurking.fandom.com/wiki/Message_Wall:Epicpkmn11) <small>// I updated a little bit of the Dinosaur King things</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
 - Goodreads: [evie11](https://www.goodreads.com/evie11) <small>// Basically just me rating books I've read 5 stars</small>
 - Instagram: [Pk11](https://www.instagram.com/epicpkmn11/) <small>// Nothing really on here</small>
-- LINE Timeline: [Pk11](https://timeline.line.me/user/_dVRz1-TMEIXMntRk6XV-g26IDbRae0bLZ3jpsqM) <small>// I like LINE for talking, sometimes I post pictures on here</small>
+- LINE Timeline: [Pk11](https://timeline.line.me/user/_dVRz1-TMEIXMntRk6XV-g26IDbRae0bLZ3jpsqM) <small>// I like LINE for texting, sometimes I post pictures on here</small>
 - Listen.moe: [Pk11](https://listen.moe/u/pk11) <small>// When I get bored of my iTunes songs sometimes I listen on here</small>
 - MangaDex: [Evie11](https://mangadex.org/user/471397/evie11) <small>// I don't read manga all too much either, Magical Trans is good though</small>
 - Minecraft: Pk11 <small>// Don't have a link for this one, but Minecraft's fun ;P</small>
-- Mixer: [Epicpkmn11](https://mixer.com/Epicpkmn11) <small>// What I said for Twitch, but I haven't it in a few years</small>
+- Mixer: [Epicpkmn11](https://mixer.com/Epicpkmn11) <small>// What I said for Twitch, but I haven't used it in a few years</small>
 - MobileRead: [Pk11](https://www.mobileread.com/forums/member.php?u=314538) <small>// An eReader forum, as of now I haven't done much here</small>
-- Scratch: [Epicpkmn11](https://scratch.mit.edu/users/Epicpkmn11/) <small>// lol, I put a couple things on here in 8<sup>th</sup> grade</small>
+- Scratch: [Epicpkmn11](https://scratch.mit.edu/users/Epicpkmn11/) <small>// lol, I did a couple things on here in 8<sup>th</sup> grade</small>
 - Steam: [Pk11](https://steamcommunity.com/id/epicpkmn11/) <small>// I don't play PC games much</small>
 - PlayStation: [epicpkmn11](https://my.playstation.com/profile/epicpkmn11) <small>// I play PlayStation games even less lol</small>
 - The Mod Archive: [Pk11](https://modarchive.org/member.php?92565) <small>// I haven't made any modules so not sure why I made an account...</small>
