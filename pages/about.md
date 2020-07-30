@@ -49,6 +49,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Theme Plaza: [Epicpkmn11](https://themeplaza.eu/profile/Epicpkmn11) <small>// My Suicune theme is the one I use on all my 3DS's</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I've got a 3D Printer, but haven't posted any models on here as of writing this</small>
 - Wattpad: [Pk11](https://www.wattpad.com/user/Epicpkmn11) <small>// Made this only to follow my sister's friend's classmate lol</small>
+- Wikipedia: Epicpkmn11 ([en](https://en.wikipedia.org/wiki/User:Epicpkmn11), [ja](https://ja.wikipedia.org/wiki/User:Epicpkmn11)) <small>// I haven't done much, but I was bored and found the userboxes so I made user pages to put them on;P</small>
 - Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11) <small>// I play Xbox games *even less* than PlayStation games</small>
 
 If you're curious, I started switching to Pk11 somewhere around early to mid 2019, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11.
