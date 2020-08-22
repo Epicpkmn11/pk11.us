@@ -16,8 +16,8 @@ I'm not really sure what to put here... So check out my about page for more info
 
 ## Projects:
 [pkmn-chest](https://universal-team.net/projects/pkmn-chest.html){:.btn .btn-primary .button}
-[HBChecker](hbchecker){:.btn .btn-primary .button}
 [nftr-editor](nftr-editor){:.btn .btn-primary .button}
+[HBChecker](hbchecker){:.btn .btn-primary .button}
 [Remove ._ files](https://github.com/Epicpkmn11/Remove-._-files){:.btn .btn-primary .button}
 [NDSRomTrimmer](https://github.com/Epicpkmn11/NDSRomTrimmer){:.btn .btn-primary .button}
 
