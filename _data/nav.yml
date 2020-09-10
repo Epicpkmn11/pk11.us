@@ -5,7 +5,7 @@ toc:
     url: /about
   - title: Projects
     items:
-      - title: HBChecker
-        url: /hbchecker
       - title: nftr-editor
         url: /nftr-editor
+      - title: HBChecker
+        url: /hbchecker
