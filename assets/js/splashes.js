@@ -3,7 +3,7 @@ if(!localStorage.visitCount)
 localStorage.visitCount++;
 
 const eyes = ['O', 'o', 'U', 'u', '>', '^', '-', 'X', 'T', 'q'];
-const mouths = ['w', 'u', 'o', '\\_', '-', 'x', '///'];
+const mouths = ['w', 'u', 'o', '_', '-', 'x', '///'];
 const extras = [['', ''], ['', ''], ['', ''], ['', '-☆'], ['=', '='], ['d', 'b♪']];
 
 function face() {
