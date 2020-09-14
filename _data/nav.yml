@@ -5,7 +5,9 @@ toc:
     url: /about
   - title: Projects
     items:
+      - title: pkmn-chest
+        url: https://universal-team.net/projects/pkmn-chest.html
       - title: nftr-editor
         url: /nftr-editor
-      - title: HBChecker
-        url: /hbchecker
+      - title: dfc
+        url: https://db.universal-team.net/ds/dfc.html
