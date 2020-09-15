@@ -34,6 +34,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Fandom: [Epicpkmn11](https://dinosaurking.fandom.com/wiki/Message_Wall:Epicpkmn11) <small>// I updated a little bit of the Dinosaur King things</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
 - Goodreads: [evie11](https://www.goodreads.com/evie11) <small>// Basically just me rating books I've read 5 stars</small>
+- Gravatar: [Epicpkmn11](https://ja.gravatar.com/epicpkmn11): <small>// A couple sites make me use this for my avatar</small>
 - Instagram: [Pk11](https://www.instagram.com/epicpkmn11/) <small>// Nothing really on here</small>
 - LINE Timeline: [Pk11](https://timeline.line.me/user/_dVRz1-TMEIXMntRk6XV-g26IDbRae0bLZ3jpsqM) <small>// I like LINE for texting, sometimes I post pictures on here</small>
 - Listen.moe: [Pk11](https://listen.moe/u/pk11) <small>// When I get bored of my iTunes songs sometimes I listen on here</small>
@@ -48,6 +49,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - The Mod Archive: [Pk11](https://modarchive.org/member.php?92565) <small>// I haven't made any modules so not sure why I made an account...</small>
 - Theme Plaza: [Epicpkmn11](https://themeplaza.eu/profile/Epicpkmn11) <small>// My Suicune theme is the one I use on all my 3DS's</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I've got a 3D Printer, but haven't posted any models on here as of writing this</small>
+- Transifex: [Pk11](https://www.transifex.com/user/profile/Pk11/): <small>// A couple things I've translated for use this</small>
 - Wattpad: [Pk11](https://www.wattpad.com/user/Epicpkmn11) <small>// Made this only to follow my sister's friend's classmate lol</small>
 - Wikipedia: Epicpkmn11 ([en](https://en.wikipedia.org/wiki/User:Epicpkmn11), [ja](https://ja.wikipedia.org/wiki/User:Epicpkmn11)) <small>// I haven't done much, but I was bored and found the userboxes so I made user pages to put them on;P</small>
 - Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11) <small>// I play Xbox games *even less* than PlayStation games</small>
