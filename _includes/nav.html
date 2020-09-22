@@ -46,8 +46,8 @@
 	</div>
 	<script>
 		// Remove hover classes
-		for(let dropdown of document.getElementsByClassName("hover-content")) {
-			dropdown.classList.remove("hover-content");
-		}
+		Array.from(document.getElementsByClassName("hover-content")).forEach(r => {
+			r.classList.remove("hover-content");
+		});
 	</script>
 </nav>
