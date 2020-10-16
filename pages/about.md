@@ -31,6 +31,7 @@ Hi! I'm Evie, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl an
 - Chief Delphi: [Epicpkmn11](https://www.chiefdelphi.com/u/epicpkmn11) <small>// I was in robotics in high school, I haven't been on here since</small>
 - Colors! Live: [Evie11](https://www.colorslive.com/artist/Evie11) <small>// I posted my recent avatars here since they were made in Colors!, but DS support has been removed</small>
 - Dailymotion: [Pk11](https://www.dailymotion.com/Epicpkmn11music) <small>// Uploaded a few Pokémon and Dinosaur King OP's here, most got taken down for copyright</small>
+- DEV: [Pk11](https://dev.to/pk11) <small>// Like twitter for coding or something? idk, hacktoberfest said I'd get a badge thingy so I made an account</small>
 - Fandom: [Epicpkmn11](https://dinosaurking.fandom.com/wiki/Message_Wall:Epicpkmn11) <small>// I updated a little bit of the Dinosaur King things</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
 - Goodreads: [evie11](https://www.goodreads.com/evie11) <small>// Basically just me rating books I've read 5 stars</small>
