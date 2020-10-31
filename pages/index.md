@@ -17,6 +17,7 @@ I'm not really sure what to put here... So check out my about page for more info
 ## Projects:
 [pkmn-chest](https://universal-team.net/projects/pkmn-chest.html){:.btn .btn-primary .button}
 [nftr-editor](nftr-editor){:.btn .btn-primary .button}
+[dsi-camera](https://db.universal-team.net/ds/dsi-camera.html){:.btn .btn-primary .button}
 [dfc](https://db.universal-team.net/ds/dfc.html){:.btn .btn-primary .button}
 
 <script src="/assets/js/splashes.js"></script>
