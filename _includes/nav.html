@@ -1,10 +1,11 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-primary">
 	<div class="container-fluid maxwidth">
 		<span class="navbar-brand">
-			{% if site.title != page.title %}
-				{{ page.title }} |
+			{% if page.title %}
+				{{ page.title }}
+			{% else %}
+				{{ site.title }}
 			{% endif %}
-			<a class="navbar-brand mb-0 h1" href="/">{{ site.title }}</a>
 		</span>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
