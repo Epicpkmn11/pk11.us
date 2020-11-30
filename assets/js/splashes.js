@@ -60,7 +60,7 @@ const splashes = [
 	`You've been to this page ${localStorage.visitCount} time${localStorage.visitCount == 1 ? "" : "s"}!`,
 	"<a href=\"javascript:/*quit_looking_at_the_link...thats_rude...*/!confirm('bwa ha ha! you are hackifyed!')?confirm('what do you mean no? thats rude :pout:')?null:window.open('https://youtu.be/dQw4w9WgXcQ','_self', ''):document.documentElement.style.setProperty('--primary','#'+Math.floor(Math.random()*0xFFFFFF).toString(16));\">Click me</a> to get <s>hacked</s> free cool stuff!",
 	"<span onmouseover=\"event.target.innerText = face();\" onmouseout=\"event.target.innerText = 'UwU';\">UwU</span>",
-	`Error ${Math.floor(Math.random() * 1000)}!`,
+	`Error in line ${Math.floor(Math.random() * 1000)}! Please <a href="javascript:'https://pk11.us/report-bug'" onclick="alert('lol hahahahaha');window.open('https://youtu.be/dQw4w9WgXcQ','_self', '')">report this!</a>`,
 	`Your fortune today is... <span style='background-color: var(--blockquote-color); border-radius: 3px; padding: 2px 3px; cursor: pointer;' onclick='this.style.backgroundColor = "#99999940"; this.style.cursor = ""'>${fortunes[getIndex("fortune", fortunes.length)]}</span>`,
 ];
 
