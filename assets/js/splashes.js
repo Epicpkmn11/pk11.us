@@ -2,6 +2,13 @@ if(!localStorage.visitCount)
 	localStorage.visitCount = 0;
 localStorage.visitCount++;
 
+function getIndex(name, length) {
+	let index = parseInt(new URLSearchParams(window.location.search).get(name));
+	if(isNaN(index))
+		index = Math.floor(Math.random() * length);
+	return index;
+}
+
 const eyes = ['O', 'o', 'U', 'u', '>', '^', '-', 'X', 'T', 'q'];
 const mouths = ['w', 'u', 'o', '_', '-', 'x', '///'];
 const extras = [['', ''], ['', ''], ['', ''], ['', '-☆'], ['=', '='], ['d', 'b♪']];
@@ -31,8 +38,7 @@ const fortunes = [
 	`${String.fromCodePoint(Math.floor(Math.random() * 26 + 0x41))} is your friend, but be cautious around ${String.fromCodePoint(Math.floor(Math.random() * 26 + 0x41))}.`,
 	"Bright lights may cause your shoes to be uneasy...",
 	`The number ${Math.ceil(Math.random() * 9)} has more to tell you...`,
-	"Trees may help you find what you need.",
-	""
+	"Trees may help you find what you need."
 ];
 
 const splashes = [
@@ -55,7 +61,7 @@ const splashes = [
 	"<a href=\"javascript:/*quit_looking_at_the_link...thats_rude...*/!confirm('bwa ha ha! you are hackifyed!')?confirm('what do you mean no? thats rude :pout:')?null:window.open('https://youtu.be/dQw4w9WgXcQ','_self', ''):document.documentElement.style.setProperty('--primary','#'+Math.floor(Math.random()*0xFFFFFF).toString(16));\">Click me</a> to get <s>hacked</s> free cool stuff!",
 	"<span onmouseover=\"event.target.innerText = face();\" onmouseout=\"event.target.innerText = 'UwU';\">UwU</span>",
 	`Error ${Math.floor(Math.random() * 1000)}!`,
-	`Your fortune today is... <span style='background-color: var(--blockquote-color); border-radius: 3px; padding: 0 3px; cursor: pointer;' onclick='this.style.backgroundColor = "#99999940"; this.style.cursor = ""'>${fortunes[Math.floor(Math.random() * fortunes.length)]}</span>`,
+	`Your fortune today is... <span style='background-color: var(--blockquote-color); border-radius: 3px; padding: 0 3px; cursor: pointer;' onclick='this.style.backgroundColor = "#99999940"; this.style.cursor = ""'>${fortunes[getIndex("fortune", fortunes.length)]}</span>`,
 ];
 
-document.getElementById("splash").innerHTML = splashes[Math.floor(Math.random() * splashes.length)];
+document.getElementById("splash").innerHTML = splashes[getIndex("splash", splashes.length)];
