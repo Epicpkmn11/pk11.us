@@ -24,7 +24,6 @@ I don't like talking about myself much so that's all for this, here's about ever
 - Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// Sometime I try to help on a DS homebrew subreddit or look at trans memes or so</small>
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// I recommend like everything on my '読んでいる' (reading) and '読んだ' (read) lists ;P
 - Twitch: [Evie11\_](https://www.twitch.tv/Evie11_) <small>// I don't stream, I watch a few sometimes though</small>
-- Twitter: [Evie](https://twitter.com/Evie11__) <small>// Really not a fan of social media, easiest way to get pictures off my Switch tho</small>
 - YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I've got some old unlisted videos, sometimes I even re-list them before remembering I don't like them</small>
 
 ### Random <small>// Sites I rarely use and/or are kinda random</small>
