@@ -1,6 +1,6 @@
-if(!localStorage.visitCount)
-	localStorage.visitCount = 0;
-localStorage.visitCount++;
+if(!sessionStorage.visitCount)
+	sessionStorage.visitCount = 0;
+sessionStorage.visitCount++;
 
 function getIndex(name, length) {
 	let index = parseInt(new URLSearchParams(window.location.search).get(name));
@@ -57,7 +57,7 @@ const splashes = [
 	"行くぜっ！怪盗少女に聴いている🎶",
 	"Twemoji are the best emoji",
 	"Why does 😜 have a white around the open eye <small>it creeps me out</small>",
-	`You've been to this page ${localStorage.visitCount} time${localStorage.visitCount == 1 ? "" : "s"}!`,
+	`You've loaded this page ${sessionStorage.visitCount} time${sessionStorage.visitCount == 1 ? "" : "s"} this session!`,
 	"<a href=\"javascript:/*quit_looking_at_the_link...thats_rude...*/!confirm('bwa ha ha! you are hackifyed!')?confirm('what do you mean no? thats rude :pout:')?null:window.open('https://youtu.be/dQw4w9WgXcQ','_self', ''):document.documentElement.style.setProperty('--primary','#'+Math.floor(Math.random()*0xFFFFFF).toString(16));\">Click me</a> to get <s>hacked</s> free cool stuff!",
 	"<span onmouseover=\"event.target.innerText = face();\" onmouseout=\"event.target.innerText = 'UwU';\">UwU</span>",
 	`Error in line ${Math.floor(Math.random() * 1000)}! Please <a href="javascript:'https://pk11.us/report-bug'" onclick="alert('lol hahahahaha');window.open('https://youtu.be/dQw4w9WgXcQ','_self', '')">report this!</a>`,
