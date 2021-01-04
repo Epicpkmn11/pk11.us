@@ -1,5 +1,5 @@
 {
   "m.homeserver": {
-    "base_url": "https://home.pk11.us:8448"
+    "base_url": "https://home.pk11.us"
   }
 }
