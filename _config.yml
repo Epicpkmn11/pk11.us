@@ -3,6 +3,7 @@ description  : "Pk11's site"
 repo         : "Epicpkmn11/pk11.us"
 color        : "#f2acae"
 markdown_ext : "markdown,mkdown,mkdn,mkd,md,html"
+include      : [".well-known"]
 
 defaults:
   - values:
