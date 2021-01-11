@@ -1,13 +1,9 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-primary">
 	<div class="container-fluid maxwidth">
 		<span class="navbar-brand">
-			{% if page.title %}
-				{{ page.title }}
-			{% else %}
-				{{ site.title }}
-			{% endif %}
+			<a href="/">{{ site.title }}</a>
 		</span>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+		<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>
 		</button>
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -24,7 +20,7 @@
 								{% for entry in item.items %}
 									{% if entry.title == page.title %} active {% endif %}
 								{% endfor %}
-							dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+							dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
 							<div class="dropdown-menu hover-content" aria-labelledby="navbarDropdownMenuLink">
 								{% for entry in item.items %}
 									<a class="dropdown-item" href="{{ entry.url }}">{{ entry.title }}</a>
