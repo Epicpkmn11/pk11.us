@@ -4,7 +4,7 @@ if(sessionStorage) {
 	sessionStorage.visitCount++;
 } else {
 	var sessionStorage = {
-		"visitCount": 0;
+		"visitCount": 0
 	}
 }
 
