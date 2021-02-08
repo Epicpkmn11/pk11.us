@@ -38,12 +38,13 @@ I don't like talking about myself much so that's all for this, here's about ever
 - MangaDex: [Evie11](https://mangadex.org/user/471397/evie11) <small>// I don't read much manga, just a few trans ones (on my MDList thing)</small>
 - Minecraft: Pk11 <small>// Don't have a link for this one, but Minecraft's fun ;P</small>
 - MobileRead: [Pk11](https://www.mobileread.com/forums/member.php?u=314538) <small>// An eReader forum, as of now I haven't done much here</small>
+- The Mod Archive: [Pk11](https://modarchive.org/member.php?92565) <small>// I haven't even done anything so I forget why I even made an account</small>
 - nesdev: [Pk11](http://forums.nesdev.com/memberlist.php?mode=viewprofile&u=17669) <small>// Made this so I could talk to nocash about Unlaunch</small>
+- Ninja Kiwi: [Epicpkm11](https://ninjakiwi.com/profile/Epicpkmn11) <small>// BTD 4 and 5 are fun so I play them sometimes, kinda annoying now since Flash is dead tho</small>
 - Scratch: [Epicpkmn11](https://scratch.mit.edu/users/Epicpkmn11/) <small>// lol, I did a couple things on here in 8<sup>th</sup> grade</small>
 - Steam: [Pk11](https://steamcommunity.com/id/epicpkmn11/) <small>// I don't play PC games much</small>
 - PlayStation: [epicpkmn11](https://my.playstation.com/profile/epicpkmn11) <small>// I play PlayStation games even less lol</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// Don't use it much as I usually use my iPod nano 6 (*the best smart watch*)</small>
-- The Mod Archive: [Pk11](https://modarchive.org/member.php?92565) <small>// I haven't even done anything so I forget why I even made an account</small>
 - Theme Plaza: [Epicpkmn11](https://themeplaza.eu/profile/Epicpkmn11) <small>// My Suicune theme is the one I use on all my 3DS's</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
 - Transifex: [Pk11](https://www.transifex.com/user/profile/Pk11/): <small>// A couple things I've helped translate use this</small>
