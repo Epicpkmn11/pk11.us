@@ -5,6 +5,7 @@
 	// Main contents
 	--main-bg: #333;
 	--main-color: #ccc;
+	--secondary-bg: #4f4f4f;
 	--header-color: #ddd;
 	--borders: #555;
 	--blockquote-color: #999;
@@ -12,13 +13,15 @@
 	--code-color: #ddd;
 	--a-color: gray;
 	--small-color: gray;
+	--textarea-bg: #303030;
+	--textarea-color: #fff;
 
 	// Nav
 	--nav-link-color: rgba(0, 0, 0, 0.7);
 	--nav-link-color-hover: rgba(0, 0, 0, 0.5);
 	--nav-link-color-active: rgba(0, 0, 0, 1);
 	--dropdown-item-bg-hover: rgba(0, 0, 0, 0.2);
-	--primary: {{ page.color | default: site.color }};
+	--primary: #b55356;
 	--dark: #f8f9fa;
 	--dark-always: #343a40;
 	--light: #3f3f3f;

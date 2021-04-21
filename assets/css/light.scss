@@ -5,6 +5,7 @@
 	// Main contents
 	--main-bg: #fff;
 	--main-color: #222;
+	--secondary-bg: #e9e9e9;
 	--header-color: #222;
 	--borders: #bbb;
 	--blockquote-color: #666;
@@ -12,6 +13,8 @@
 	--code-color: #333;
 	--a-color: gray;
 	--small-color: gray;
+	--textarea-bg: var(--main-bg)
+	--textarea-color: #000;
 
 	// Nav
 	--nav-link-color: rgba(0, 0, 0, 0.7);

@@ -196,6 +196,37 @@ h6:hover .header-anchor {
 	display: inline;
 }
 
+// File forms
+.form-control {
+	background-color: var(--main-bg);
+	color: var(--main-color);
+	border: 1px solid var(--borders);
+}
+
+.input-group-text, .form-control::-webkit-file-upload-button {
+	background-color: var(--secondary-bg);
+	color: var(--main-color);
+	border: 1px solid var(--borders);
+}
+.form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button {
+	background-color: var(--code-bg);
+}
+// Safari is dumb and don't let the Firefox one be with the others
+.form-control::file-selector-button {
+	background-color: var(--secondary-bg);
+	color: var(--main-color);
+	border: 1px solid var(--borders);
+}
+.form-control:hover:not(:disabled):not([readonly])::file-selector-button {
+	background-color: var(--code-bg);
+}
+
+// Select
+.form-select-dark {
+	background-color: #444;
+	border: 1px solid #333;
+}
+
 @media only screen and (max-width: 757px) {
 	header {
 		position: relative;
