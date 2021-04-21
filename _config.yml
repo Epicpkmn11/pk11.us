@@ -9,3 +9,6 @@ defaults:
   - values:
       layout: "default"
       title: "Pk11"
+
+plugins:
+  - "jekyll-github-metadata"

@@ -2,7 +2,10 @@
 	<div class="container">
 		<p class="text-light">
 			By: <a href="https://github.com/Epicpkmn11" class="link">Pk11</a> .o/<br>
-			Published with <a href="https://pages.github.com">GitHub Pages</a>, view <a href="https://github.com/{{ site.repo }}">the source</a> on GitHub.
+			Published with <a href="https://pages.github.com">GitHub Pages</a>, view <a href="https://github.com/{{ site.repo }}">the source</a> on GitHub.<br>
+			{% if page.show_version %}
+				Version: <a href="{{ site.github.repository_url }}/commit/{{ site.github.build_revision }}">{{ site.github.build_revision | | truncate: 7, "" }}</a>
+			{% endif %}
 		</p>
 	</div>
 </footer>
