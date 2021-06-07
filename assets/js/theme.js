@@ -19,7 +19,10 @@ function loadTheme() {
 }
 
 function setTheme(theme) {
-	localStorage.theme = theme;
+	if(theme == "default")
+		delete localStorage.theme;
+	else
+		localStorage.theme = theme;
 	loadTheme();
 }
 
