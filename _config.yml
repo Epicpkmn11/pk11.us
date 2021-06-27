@@ -12,3 +12,6 @@ defaults:
 
 plugins:
   - "jekyll-github-metadata"
+
+sass:
+  sass_dir: _sass

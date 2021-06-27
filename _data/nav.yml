@@ -1,23 +1,24 @@
-toc:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Projects
-    items:
-      - title: pkmn-chest
-        url: https://github.com/Universal-Team/pkmn-chest
-      - title: Universal-DB
-        url: https://db.universal-team.net
-      - title: TWiLight Menu++
-        url: https://github.com/DS-Homebrew/TWiLightMenu
-      - title: DS-Homebrew wiki
-        url: https://wiki.ds-homebrew.com
-      - title: Universal-Updater
-        url: https://github.com/Universal-Team/Universal-Updater
-      - title: GodMode9i
-        url: https://github.com/DS-Homebrew/GodMode9i
-      - title: nftr-editor
-        url: /nftr-editor
-      - title: dsi-camera
-        url: https://db.universal-team.net/ds/dsi-camera
+- title: Home
+  url: /
+- title: About
+  url: /about
+  key: a
+- title: Projects
+  items:
+    - title: pkmn-chest
+      url: https://github.com/Universal-Team/pkmn-chest
+    - title: Universal-DB
+      url: https://db.universal-team.net
+    - title: TWiLight Menu++
+      url: https://github.com/DS-Homebrew/TWiLightMenu
+    - title: DS-Homebrew wiki
+      url: https://wiki.ds-homebrew.com
+    - title: Universal-Updater
+      url: https://github.com/Universal-Team/Universal-Updater
+    - title: GodMode9i
+      url: https://github.com/DS-Homebrew/GodMode9i
+    - title: nftr-editor
+      url: /nftr-editor
+      key: n
+    - title: dsi-camera
+      url: https://db.universal-team.net/ds/dsi-camera
