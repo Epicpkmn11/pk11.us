@@ -24,7 +24,7 @@ I don't like talking about myself much so that's all for this, here's about ever
 - Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// Sometime I try to help on a DS homebrew subreddit or look at trans memes or so</small>
 - Scribble Hub: [Evie11](https://www.scribblehub.com/profile/15062/evie11/) <small>// If you want some good transbian stories, check my '読んでいる' (reading) and '読んだ' (read) lists ;P
 - Twitch: [Evie11\_](https://www.twitch.tv/Evie11_) <small>// I don't stream, I watch a few sometimes though</small>
-- YouTube: [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) <small>// I made a few console modding "video guides" to tell please to please not follow video guides</small>
+- YouTube: [Pk11](https://www.youtube.com/channel/UCPiAz_lYN3LqjCWJ5M4Xt7A), [Pk11](https://www.youtube.com/channel/UCENcUX15ZTBn4Nlrm3fXsVQ) (old account) <small>// I watch a lot of YouTube, but don't post much</small>
 
 ### Random <small>// Sites I rarely use and/or are kinda random</small>
 - Chief Delphi: [Epicpkmn11](https://www.chiefdelphi.com/u/epicpkmn11) <small>// I was in robotics in high school, I haven't been on here since</small>
@@ -40,16 +40,18 @@ I don't like talking about myself much so that's all for this, here's about ever
 - MobileRead: [Pk11](https://www.mobileread.com/forums/member.php?u=314538) <small>// An eReader forum, as of now I haven't done much here</small>
 - The Mod Archive: [Pk11](https://modarchive.org/member.php?92565) <small>// I haven't even done anything so I forget why I even made an account</small>
 - nesdev: [Pk11](http://forums.nesdev.com/memberlist.php?mode=viewprofile&u=17669) <small>// Made this so I could talk to nocash about Unlaunch</small>
+- Niconico: [エヴィー](https://www.nicovideo.jp/user/69199725) <small>// I've made an UTAU cover here, if I make anything else in UTAU or VOCALOID I'll put it here too</small>
 - Ninja Kiwi: [Epicpkm11](https://ninjakiwi.com/profile/Epicpkmn11) <small>// BTD 4 and 5 are fun so I play them sometimes, kinda annoying now since Flash is dead tho</small>
 - Scratch: [Epicpkmn11](https://scratch.mit.edu/users/Epicpkmn11/) <small>// lol, I did a couple things on here in 8<sup>th</sup> grade</small>
 - Steam: [Pk11](https://steamcommunity.com/id/epicpkmn11/) <small>// I don't play PC games much</small>
-- PlayStation: [epicpkmn11](https://my.playstation.com/profile/epicpkmn11) <small>// I play PlayStation games even less lol</small>
+- piapro: [pk11](https://piapro.jp/pk11) <small>// Mainly just have this so I can download Edit songs in Project DIVA F 2nd</small>
+- PlayStation: [evie11\_](https://my.playstation.com/profile/evie11_) (Japan), [epicpkmn11](https://my.playstation.com/profile/epicpkmn11) (USA) <small>// Project DIVA is fun</small>
 - Spotify: [epicpkmn11](https://open.spotify.com/user/epicpkmn11) <small>// Don't use it much as I usually use my iPod nano 6 (*the best smart watch*)</small>
 - Theme Plaza: [Epicpkmn11](https://themeplaza.eu/profile/Epicpkmn11) <small>// My Suicune theme is the one I use on all my 3DS's</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
 - Transifex: [Pk11](https://www.transifex.com/user/profile/Pk11/): <small>// A couple things I've helped translate use this</small>
 - Wikipedia: Epicpkmn11 ([en](https://en.wikipedia.org/wiki/User:Epicpkmn11), [ja](https://ja.wikipedia.org/wiki/User:Epicpkmn11)) <small>// I've just made some minor corrections to a few things</small>
-- Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11) <small>// I play Xbox games *even less* than PlayStation games</small>
+- Xbox Live: [Epicpkmn11](https://account.xbox.com/ja-jp/profile?gamertag=Epicpkmn11) <small>// I don't think I've used an Xbox in like 5 years lol</small>
 
 If you're curious, I started switching to Pk11 somewhere around early to mid 2019 since I didn't like being called 'epic' for short, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11 or sometimes add an underscore.
 
@@ -70,6 +72,7 @@ Other:
 - [Nintendo DSi (1.4.2K)](http://web.archive.org/web/20200221213036/http://www.nintendo.co.kr/DSi/intro/DSi_intro1.php) <small>// All my DSi's have Unlaunch, I also have a DSTT, Acekard 2i, and Datel Games n' Music</small>
 - [Nintendo DSi (1.4.5J)](https://www.nintendo.co.jp/ds/series/dsi/) <small>// Can we just take a moment to appreciate that this website is still up</small>
 - [Nintendo DSi LL (1.4J)](https://www.nintendo.co.jp/ds/dsiLL/) <small title="This too!">// これも！</small>
+- [PS Vita (2000, 3.65 変革-2)](https://www.jp.playstation.com/psvita/) <small>// <span title="Hatsune Miku: Project DIVA">初音ミク -Project DIVA-</span> is fun</small>
 - [Kobo Clara HD](https://us.kobobooks.com/products/kobo-clara-hd) <small>// 6" screen, warm light mode, technically [upgradable storage](https://yingtongli.me/blog/2018/07/29/kobo-sd.html) (I have 128GB!), overall a nice eReader imo</small>
 - [iPod nano (6th Generation)](https://web.archive.org/web/20101201062834/http://www.apple.com/ipodnano/) <small>// *Still the best [Apple Watch](https://www.thingiverse.com/thing:4665789)*</small>
   - [Sony MDR-E9LP In-Ear Headphones](https://www.sony.com/electronics/in-ear-headphones/mdr-e9lp) <small>// I am by definition fashionable when wearing these, it said so on the box lol</small>
