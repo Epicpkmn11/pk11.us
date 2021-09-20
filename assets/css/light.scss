@@ -13,7 +13,7 @@ $code-bg: #ddd;
 $code-color: #333;
 $a-color: #0366d6;
 $small-color: gray;
-$textarea-bg: var($main-bg);
+$textarea-bg: $main-bg;
 $textarea-color: #000;
 
 // Nav
