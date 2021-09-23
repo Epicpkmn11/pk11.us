@@ -5,13 +5,13 @@ function loadTheme() {
 			themeCSS.remove();
 	} else {
 		if(themeCSS) {
-			themeCSS.href = "/assets/css/" + localStorage.theme +".css";
+			themeCSS.href = "/assets/css/" + localStorage.theme + ".css";
 		} else {
 			const l = document.createElement("link");
 			l.rel = "stylesheet";
 			l.type = "text/css";
 			l.media = "screen";
-			l.href = "/assets/css/" + localStorage.theme +".css"
+			l.href = "/assets/css/" + localStorage.theme + ".css"
 			l.id = "themeCSS";
 		
 			document.head.appendChild(l);
