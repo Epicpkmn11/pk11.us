@@ -17,13 +17,13 @@ I'm not really sure what else to put here... So check out my about page for more
 ## Projects:
 These are the main things that I've contributed to, ordered vaguely by how big they are and how much of them is my work:
 
-[pkmn-chest](https://github.com/Universal-Team/pkmn-chest){:.btn .btn-primary .button}
-[Universal-DB](https://db.universal-team.net){:.btn .btn-primary .button}
-[TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu){:.btn .btn-primary .button}
-[DS-Homebrew wiki](https://wiki.ds-homebrew.com){:.btn .btn-primary .button}
-[Universal-Updater](https://github.com/Universal-Team/Universal-Updater){:.btn .btn-primary .button}
-[GodMode9i](https://github.com/DS-Homebrew/GodMode9i){:.btn .btn-primary .button}
-[nftr-editor](nftr-editor){:.btn .btn-primary .button}
-[dsi-camera](https://db.universal-team.net/ds/dsi-camera){:.btn .btn-primary .button}
+[pkmn-chest](https://github.com/Universal-Team/pkmn-chest){:.btn .btn-primary .button .mb-1}
+[Universal-DB](https://db.universal-team.net){:.btn .btn-primary .button .mb-1}
+[TWiLight Menu++](https://github.com/DS-Homebrew/TWiLightMenu){:.btn .btn-primary .button .mb-1}
+[DS-Homebrew wiki](https://wiki.ds-homebrew.com){:.btn .btn-primary .button .mb-1}
+[Universal-Updater](https://github.com/Universal-Team/Universal-Updater){:.btn .btn-primary .button .mb-1}
+[GodMode9i](https://github.com/DS-Homebrew/GodMode9i){:.btn .btn-primary .button .mb-1}
+[nftr-editor](nftr-editor){:.btn .btn-primary .button .mb-1}
+[dsi-camera](https://db.universal-team.net/ds/dsi-camera){:.btn .btn-primary .button .mb-1}
 
 <script src="/assets/js/splashes.js"></script>
