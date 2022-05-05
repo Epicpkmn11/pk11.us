@@ -22,3 +22,6 @@
       key: n
     - title: dsi-camera
       url: https://db.universal-team.net/ds/dsi-camera
+- title: Contact
+  url: /contact
+  key: c
