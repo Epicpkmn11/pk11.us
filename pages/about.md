@@ -4,7 +4,7 @@ description: Various social links and such
 permalink: /about
 ---
 
-## About
+# About
 Hi! I'm <ruby>Evie<rp> (</rp><rt>/ˈɛv.i/</rt><rp>) </rp></ruby>, aka Pk11 or Epicpkmn11 on some older accounts. I'm a trans girl who likes likes programming, particularly DS(i) homebrew, and am trying to learn Japanese, haven't taken like proper classes on it or anything but decided one day to set all my computers to Japanese and just hoped I could figure it out lol. For programming I mostly code in C++ since that's a language you can use for DS(i) homebrew, but I also know some Python, JavaScript, and a bit of Java.
 
 I don't like talking about myself much so that's all for this, here's some of my main online profiles:
