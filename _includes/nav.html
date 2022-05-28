@@ -9,8 +9,7 @@
 				{% for item in site.data.nav %}
 					{% if item.url %}
 						<li class="nav-item">
-							{% assign section = "/" | append: page.section %}
-							<a class="nav-link {% if item.url == section %} active {% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+							<a class="nav-link {% if item.title == page.title %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
 						</li>
 					{% elsif item.items %}
 						<li class="nav-item dropdown">
