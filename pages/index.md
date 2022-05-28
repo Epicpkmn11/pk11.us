@@ -25,5 +25,6 @@ These are the main things that I've contributed to, ordered vaguely by how big t
 [GodMode9i](https://github.com/DS-Homebrew/GodMode9i){:.btn .btn-primary .button .mb-1}
 [nftr-editor](nftr-editor){:.btn .btn-primary .button .mb-1}
 [dsi-camera](https://db.universal-team.net/ds/dsi-camera){:.btn .btn-primary .button .mb-1}
+[ピケ.コム](https://xn--rck9c.xn--tckwe){:.btn .btn-primary .button .mb-1}
 
 <script src="/assets/js/splashes.js"></script>
