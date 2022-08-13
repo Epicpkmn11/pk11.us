@@ -13,15 +13,16 @@ I don't like talking about myself much so that's all for this, here's some of my
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects. Including [this website](https://github.com/Epicpkmn11/pk11.us)!</small>
 - Discord: @Pk11#3666 <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (I don't accept friend requests from people I don't know fyi)</small>
-- GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums, I also write [blog entries](https://gbatemp.net/blog/pk11.494739/) here sometimes</small>
+- GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums, and sometimes my blog</small>
 - Crowdin: [Pk11](https://crowdin.com/profile/Pk11) <small>// Universal-Team and DS-Homebrew translations are all on my account</small>
-- E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Not a website, but I do read my email frequently, if not send many</small>
+- E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Not a website, but email is a good way to contact me</small>
 
 ### Other <small>// Sites I use less often</small>
-- YouTube: [Pk11](https://www.youtube.com/channel/UCPiAz_lYN3LqjCWJ5M4Xt7A) <small>// I watch a lot of YouTube, but don't post much</small>
+- YouTube: [Pk11](https://www.youtube.com/channel/UCPiAz_lYN3LqjCWJ5M4Xt7A) <small>// I don't post too much, but I've made a few things</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
-- Niconico: [エヴィー](https://www.nicovideo.jp/user/69199725) <small>// I've made an UTAU cover here, if I make anything else in UTAU or VOCALOID I'll put it here too</small>
-- Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// Sometimes I check some NDS modding subreddits</small>
+- Niconico: [エヴィー](https://www.nicovideo.jp/user/69199725) <small>// My few UTAU covers are posted here as well as YouTube</small>
+- Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// I'm mostly somewhat active in DS modding subreddits</small>
+- Tumblr: [xn--rck9c](https://xn--rck9c.tumblr.com) <small>// aka ピケ; seems like the most tolerable social media site, but I still don't really get the point</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
 
 If you're curious, I started switching to Pk11 somewhere around early to mid 2019 since I didn't like being called 'epic' for short, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11 or sometimes add an underscore.
