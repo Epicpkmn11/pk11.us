@@ -22,7 +22,7 @@ I don't like talking about myself much so that's all for this, here's some of my
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
 - Niconico: [エヴィー](https://www.nicovideo.jp/user/69199725) <small>// My few UTAU covers are posted here as well as YouTube</small>
 - Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// I'm mostly somewhat active in DS modding subreddits</small>
-- Tumblr: [xn--rck9c](https://xn--rck9c.tumblr.com) <small>// aka ピケ; seems like the most tolerable social media site, but I still don't really get the point</small>
+- Tumblr: [xn\-\-rck9c](https://xn--rck9c.tumblr.com) <small>// aka ピケ; seems like the most tolerable social media site, but I still don't really get the point</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
 
 If you're curious, I started switching to Pk11 somewhere around early to mid 2019 since I didn't like being called 'epic' for short, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11 or sometimes add an underscore.
