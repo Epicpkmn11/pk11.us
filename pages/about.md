@@ -18,14 +18,11 @@ I don't like talking about myself much so that's all for this, here's some of my
 - E-Mail: [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) <small>// Not a website, but email is a good way to contact me</small>
 
 ### Other <small>// Sites I use less often</small>
-- YouTube: [Pk11](https://www.youtube.com/channel/UCPiAz_lYN3LqjCWJ5M4Xt7A) <small>// I don't post too much, but I've made a few things</small>
+- YouTube: [@Pk11](https://www.youtube.com/@Pk11) <small>// I don't post too much, but I've made a few things</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
 - Niconico: [エヴィー](https://www.nicovideo.jp/user/69199725) <small>// My few UTAU covers are posted here as well as YouTube</small>
-- Reddit: [Evie_11](https://www.reddit.com/user/Evie_11/) <small>// I'm mostly somewhat active in DS modding subreddits</small>
-- Tumblr: [xn\-\-rck9c](https://xn--rck9c.tumblr.com) <small>// aka ピケ; seems like the most tolerable social media site, but I still don't really get the point</small>
+- Reddit: [u/Evie_11](https://www.reddit.com/user/Evie_11/) <small>// I'm mostly somewhat active in DS modding subreddits</small>
 - GitLab: [Pk11](https://gitlab.com/Epicpkmn11) <small>// I helped out a bit with the Yamamura Discord bot and it was on here</small>
-
-If you're curious, I started switching to Pk11 somewhere around early to mid 2019 since I didn't like being called 'epic' for short, I've retroactively changed as many things as I could to Pk11, but its often unavailable since its short and thus commonly taken and sometimes even too short to use outright, in which case I'll usually still fall back to Epicpkmn11 or sometimes add an underscore.
 
 ## Profile pics
 I've kept every revision I've made to my profile pics over the years and Dropbox even has the last edit dates, though the times for any of these before near 2020 may actually not be quite when I started using them (especially the first one, I feel like that's gotta be more like 2012) but definitely feel about right for when I was using them for most.
