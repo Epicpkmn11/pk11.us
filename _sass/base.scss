@@ -37,11 +37,35 @@ blockquote {
 	border-left: 3px solid $borders;
 }
 
-code {
+:not(pre) > code, pre {
 	color: $code-color;
 	background-color: $code-bg;
 	padding: 3px;
 	border-radius: 0.25rem;
+
+	&:not(.wrap) {
+		white-space: nowrap;
+
+		@media screen and (max-width: 576px) {
+			white-space: normal;
+		}
+	}
+
+}
+
+pre {
+	padding: 16px;
+	border-radius: 0.5rem;
+	white-space: pre;
+}
+
+a > code {
+	color: inherit!important;
+}
+
+div.language-bash pre.highlight code::before {
+	content: "$ ";
+	color: $code-light;
 }
 
 // .a is for making other things look like <a>s
