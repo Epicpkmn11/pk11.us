@@ -65,7 +65,7 @@ a > code {
 
 div.language-bash pre.highlight code::before {
 	content: "$ ";
-	color: $code-light;
+	color: $code-color;
 }
 
 // .a is for making other things look like <a>s
