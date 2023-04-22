@@ -42,6 +42,7 @@ blockquote {
 	background-color: $code-bg;
 	padding: 3px;
 	border-radius: 0.25rem;
+	white-space: pre !important;
 
 	&:not(.wrap) {
 		white-space: nowrap;
