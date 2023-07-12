@@ -12,11 +12,11 @@ I don't like talking about myself much so that's all for this, here's some of my
 ## Social links
 ### Main <small>// Sites I use frequently</small>
 - GitHub: [Epicpkmn11](https://github.com/Epicpkmn11) <small>// This is where you can find all my coding projects. Including [this website](https://github.com/Epicpkmn11/pk11.us)!</small>
-- Discord: @Pk11#3666 <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (I don't accept friend requests from people I don't know fyi)</small>
+- Discord: [@Pk11#3666](https://discord.com/users/644449298087411732) <small>// I'm active in [DS⁽ⁱ⁾ Mode Hacking](https://discord.gg/yD3spjv) and [Universal-Server](https://discord.gg/KDJCfGF) (I don't accept friend requests from people I don't know fyi)</small>
 - GBAtemp: [Pk11](https://gbatemp.net/members/pk11.494739/) <small>// I'm mostly only active in the NDS forums, and sometimes my blog</small>
 - Crowdin: [Pk11](https://crowdin.com/profile/Pk11) <small>// Universal-Team and DS-Homebrew translations are all on my account</small>
 - E-Mail: [pk11@outlook.jp](mailto:pk11@outlook.jp) <small>// Not a website, but email is a good way to contact me</small>
-   - <small>// [epicpkmn11@outlook.com](epicpkmn11@outlook.com) is my older email, it goes to the same inbox</small>
+   - <small>// [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) is my older email, it goes to the same inbox</small>
 
 ### Other <small>// Sites I use less often</small>
 - YouTube: [@Pk11](https://www.youtube.com/@Pk11) <small>// I don't post too much, but I've made a few things</small>
