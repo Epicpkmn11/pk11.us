@@ -9,7 +9,8 @@ permalink: /
 > {:#splash}
 Why don't you have JS? :'(
 
-Hi .o/<br>
+Hi .o/
+
 I'm Pk11, I mainly make DS(i) homebrew apps, related websites, and sometimes a bit of 3DS homebrew. I'm also part of [Universal-Team](https://universal-team.net), we make some DS and 3DS homebrew apps so check those out if you want.
 
 I'm not really sure what else to put here... So check out my about page for more info about me, or the project links below for things I've made or helped with.
