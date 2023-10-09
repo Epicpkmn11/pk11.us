@@ -5,6 +5,11 @@ color        : "#f2acae"
 markdown_ext : "markdown,mkdown,mkdn,mkd,md,html"
 include      : [".well-known"]
 
+analytics:
+  gtag:
+    id:
+    anonymize_ip: # false (default)
+
 defaults:
   - values:
       layout: "default"
