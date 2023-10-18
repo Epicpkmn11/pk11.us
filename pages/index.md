@@ -5,6 +5,7 @@ permalink: /
 ---
 
 # {{ site.title }}
+{:.border-bottom-0}
 
 > {:#splash}
 Why don't you have JS? :'(
