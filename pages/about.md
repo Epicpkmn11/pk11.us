@@ -18,6 +18,9 @@ I don't like talking about myself much so that's all for this, here's some of my
 - E-Mail: [pk11@outlook.jp](mailto:pk11@outlook.jp) <small>// Not a website, but email is a good way to contact me</small>
    - <small>// [epicpkmn11@outlook.com](mailto:epicpkmn11@outlook.com) is my older email, it goes to the same inbox</small>
 
+### Donations
+- Ko-fi: [rck9c](https://ko-fi.com/rck9c) <small>// If for some reason you want to give me money</small>
+
 ### Other <small>// Sites I use less often</small>
 - YouTube: [@Pk11](https://www.youtube.com/@Pk11) <small>// I don't post too much, but I've made a few things</small>
 - Thingiverse: [Pk11](https://www.thingiverse.com/Pk11) <small>// I put any 3D models I make for printing on here</small>
